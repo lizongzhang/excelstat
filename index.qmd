@@ -9,7 +9,7 @@ about:
 ::: {#me}
 ## 例题习题数据 [点击下载]()
 
-## 教学视频 [作者B站主页](https://space.bilibili.com/590872906)
+## [作者B站主页](https://space.bilibili.com/590872906)
 
 <a href="https://space.bilibili.com/590872906" target="_blank"> <img src="bili_up.JPG" alt="作者B站主页" style="width: 30%;"/> <br> 扫描二维码访问作者B站主页</a>
 

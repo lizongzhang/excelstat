@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>精通Excel数据统计与分析 - 资源</title>
+<title>精通Excel数据统计与分析 - 第4篇 推断统计分析方法</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -69,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -87,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -103,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">第3篇 推断统计分析知识准备</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./第4篇.html"> 
+    <a class="nav-link active" href="./第4篇.html" aria-current="page"> 
 <span class="menu-text">第4篇 推断统计分析方法</span></a>
   </li>  
   <li class="nav-item">
@@ -113,6 +114,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
+    <a href="https://twitter.com/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
     <a href="https://github.com/lizongzhang/excelstat" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -122,45 +124,87 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
-<!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
-
-
-
-
-<div class="quarto-about-solana column-body content">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">资源</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header> 
-      <div class="about-contents"><div id="me">
-<section id="例题习题数据-点击下载" class="level2">
-<h2 data-anchor-id="例题习题数据-点击下载">例题习题数据 <a href="">点击下载</a></h2>
-</section>
-<section id="作者b站主页" class="level2">
-<h2 data-anchor-id="作者b站主页"><a href="https://space.bilibili.com/590872906">作者B站主页</a></h2>
-<p><a href="https://space.bilibili.com/590872906" target="_blank"> <img src="bili_up.JPG" alt="作者B站主页" style="width: 30%;"> <br> 扫描二维码访问作者B站主页</a></p>
-<section id="作者联系方式lizongzhang9qq.com" class="level3">
-<h3 data-anchor-id="作者联系方式lizongzhang9qq.com">作者联系方式：Lizongzhang9@qq.com</h3>
-</section>
-</section>
-</div></div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#第9章-参数估计" id="toc-第9章-参数估计" class="nav-link active" data-scroll-target="#第9章-参数估计">第9章 参数估计</a></li>
+  <li><a href="#第10章-假设检验" id="toc-第10章-假设检验" class="nav-link" data-scroll-target="#第10章-假设检验">第10章 假设检验</a></li>
+  <li><a href="#第11章-两个总体参数的检验" id="toc-第11章-两个总体参数的检验" class="nav-link" data-scroll-target="#第11章-两个总体参数的检验">第11章 两个总体参数的检验</a></li>
+  <li><a href="#第12章-多个总体参数的检验" id="toc-第12章-多个总体参数的检验" class="nav-link" data-scroll-target="#第12章-多个总体参数的检验">第12章 多个总体参数的检验</a></li>
+  <li><a href="#第13章-非参数检验" id="toc-第13章-非参数检验" class="nav-link" data-scroll-target="#第13章-非参数检验">第13章 非参数检验</a></li>
+  <li><a href="#第14章-相关分析" id="toc-第14章-相关分析" class="nav-link" data-scroll-target="#第14章-相关分析">第14章 相关分析</a></li>
+  <li><a href="#第15章-回归分析" id="toc-第15章-回归分析" class="nav-link" data-scroll-target="#第15章-回归分析">第15章 回归分析</a></li>
+  </ul>
+</nav>
     </div>
-    <img src="img/cover.jpg" class="about-image
-  rounded " style="width: 15em;">
-  </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">第4篇 推断统计分析方法</h1>
 </div>
 
-<p>欢迎浏览《精通Excel数据统计与分析》配套网站！</p>
 
 
+<div class="quarto-title-meta">
 
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="第9章-参数估计" class="level1">
+<h1>第9章 参数估计</h1>
+<p><a href="">讲义</a></p>
+<p><a href="">习题1.1讲评视频</a></p>
+<p><a href="">习题1.2讲评视频</a></p>
+</section>
+<section id="第10章-假设检验" class="level1">
+<h1>第10章 假设检验</h1>
+<p><a href="">讲义</a></p>
+<p><a href="">习题1.1讲评视频</a></p>
+<p><a href="">习题1.2讲评视频</a></p>
+</section>
+<section id="第11章-两个总体参数的检验" class="level1">
+<h1>第11章 两个总体参数的检验</h1>
+<p><a href="">讲义</a></p>
+<p><a href="">习题1.1讲评视频</a></p>
+<p><a href="">习题1.2讲评视频</a></p>
+</section>
+<section id="第12章-多个总体参数的检验" class="level1">
+<h1>第12章 多个总体参数的检验</h1>
+<p><a href="">讲义</a></p>
+<p><a href="">习题1.1讲评视频</a></p>
+<p><a href="">习题1.2讲评视频</a></p>
+</section>
+<section id="第13章-非参数检验" class="level1">
+<h1>第13章 非参数检验</h1>
+<p><a href="">讲义</a></p>
+<p><a href="">习题1.1讲评视频</a></p>
+<p><a href="">习题1.2讲评视频</a></p>
+</section>
+<section id="第14章-相关分析" class="level1">
+<h1>第14章 相关分析</h1>
+<p><a href="">讲义</a></p>
+<p><a href="">习题1.1讲评视频</a></p>
+<p><a href="">习题1.2讲评视频</a></p>
+</section>
+<section id="第15章-回归分析" class="level1">
+<h1>第15章 回归分析</h1>
+<p><a href="">讲义</a></p>
+<p><a href="">习题1.1讲评视频</a></p>
+<p><a href="">习题1.2讲评视频</a></p>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -183,6 +227,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
