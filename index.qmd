@@ -7,18 +7,22 @@ about:
     - text: 例题习题数据下载
       icon: download
       href: https://pan.baidu.com/s/1KOmG3Aj5sftFruEC1Zn4Kg?pwd=6789
+    - text: 习题讲评视频合集
+      icon: collection-play
+      href: https://pan.baidu.com/s/1COvjhvzaZKVJpIZrqEznQA?pwd=6789
     - text: 作者Email   
       icon: envelope
       href: mailto:lizongzhang9@qq.com
     - text: 作者B站主页
-      icon: youtube
+      icon: globe2
       href: https://space.bilibili.com/590872906
   id: ppc
 ---
 
-欢迎浏览《精通Excel数据统计与分析》网站！
+:::{#ppc style="color: #2E96DB"}
 
-::: {.center .one-third}
+欢迎访问《精通Excel数据统计与分析》网站！
+
 ![](img/bili_up.jpg){width=20%}
 :::
 
