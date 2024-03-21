@@ -3,7 +3,7 @@ title: "资源"
 about:
   id: me
   template: solana
-  image: img/cover.jpg
+  image: img/cover_3d.jpg
 ---
 
 ::: {#me}
