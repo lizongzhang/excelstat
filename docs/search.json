@@ -94,22 +94,22 @@
     "objectID": "chap1.html#excel的统计分析工具",
     "href": "chap1.html#excel的统计分析工具",
     "title": "第1章 统计分析与Excel概览",
-    "section": "1.3 Excel的统计分析工具",
-    "text": "1.3 Excel的统计分析工具"
+    "section": "1.2 Excel的统计分析工具",
+    "text": "1.2 Excel的统计分析工具\n\n1.2.1 图表工具\n1.2.2 函数工具\n1.2.3 数据分析工具"
   },
   {
     "objectID": "chap1.html#excel常用技巧",
     "href": "chap1.html#excel常用技巧",
     "title": "第1章 统计分析与Excel概览",
-    "section": "1.4 Excel常用技巧",
-    "text": "1.4 Excel常用技巧"
+    "section": "1.3 Excel常用技巧",
+    "text": "1.3 Excel常用技巧\n\n1.3.1 Excel的快捷键\n1.3.2 单元格填充柄"
   },
   {
     "objectID": "chap1.html#excel的数据清洗工具",
     "href": "chap1.html#excel的数据清洗工具",
     "title": "第1章 统计分析与Excel概览",
-    "section": "Excel的数据清洗工具",
-    "text": "Excel的数据清洗工具"
+    "section": "1.4 Excel的数据清洗工具",
+    "text": "1.4 Excel的数据清洗工具\n\n1.4.1 剔除重复个案\n1.4.2 剔除有缺失值的个案\n1.4.3 英文字母的大小写转换\n1.4.4 删除多余的空格\n1.4.5 观测值的批量替换\n1.4.6 文本分列\n1.4.7 以文本形式存储的数字的转化\n1.4.8 快速填充\n1.4.9 异常值和缺失值的识别\n1.4.10 数值代码转换为文本"
   },
   {
     "objectID": "chap1.html#收集数据",
@@ -123,7 +123,7 @@
     "href": "chap1.html#整理数据",
     "title": "第1章 统计分析与Excel概览",
     "section": "1.1.2 整理数据",
-    "text": "1.1.2 整理数据\n1.4节将介绍Excel中的数据清洗工具"
+    "text": "1.1.2 整理数据\n\n1.4 Excel中的数据清洗工具"
   },
   {
     "objectID": "chap1.html#分析数据",
