@@ -1,14 +1,21 @@
 ---
-title: "第1章 统计分析与Excel概览"
+title: "<span style='font-size: 90px;'>第1章 统计分析与Excel概览</span>"
 date: today
 author: "Li Zongzhang"
 format: 
   revealjs:
     incremental: FALSE
     theme: sky
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: img/cover_3d.jpg
+    css: styles.css
+    footer: <https://lizongzhang.github.io/excelstat>
 ---
 
-## 第1章 统计分析与Excel概览
+## 第1章 统计分析与Excel概览{auto-animate="true"}
 
 -   1.1 统计分析的步骤
 
@@ -54,6 +61,13 @@ format:
 -   第16章：时间序列
 :::
 
+## 全书框架{.scrollable}
+
+<img src="img/tree.png" width="1000" height="1550">
+
+
+
+
 ## 1.1.4 提炼结论
 
 ## 1.2 Excel的统计分析工具
@@ -83,4 +97,6 @@ format:
 -   1.4.9 异常值和缺失值的识别
 -   1.4.10 数值代码转换为文本
 
-## 
+## 本章总结{.scrollable}
+
+<img src="img/review1.png" width="1000" height="1550">
