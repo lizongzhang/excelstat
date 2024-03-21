@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "第1篇.html",
+    "href": "第1篇.html",
+    "title": "第1篇 开篇",
+    "section": "",
+    "text": "第1章 统计分析与Excel概览\n讲义\n习题1.1讲评视频\n习题1.2讲评视频"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "第1篇 开篇",
+    "section": "",
+    "text": "第1章 统计分析与Excel概览\n讲义\n习题1.1讲评视频\n习题1.2讲评视频"
+  },
+  {
+    "objectID": "第4篇.html",
+    "href": "第4篇.html",
+    "title": "第4篇 推断统计分析方法",
+    "section": "",
+    "text": "第9章 参数估计\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第10章 假设检验\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第11章 两个总体参数的检验\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第12章 多个总体参数的检验\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第13章 非参数检验\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第14章 相关分析\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第15章 回归分析\n讲义\n习题1.1讲评视频\n习题1.2讲评视频"
+  },
+  {
+    "objectID": "第2篇.html",
+    "href": "第2篇.html",
+    "title": "第2篇 描述统计分析",
+    "section": "",
+    "text": "第2章 定性数据的图表展示\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第3章 定量数据的图表展示\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第4章 二维数据的图表展示\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第5章 描述性统计量的计算\n讲义\n习题1.1讲评视频\n习题1.2讲评视频"
+  },
+  {
+    "objectID": "第3篇.html",
+    "href": "第3篇.html",
+    "title": "第3篇 推断统计分析知识准备",
+    "section": "",
+    "text": "第6章 离散型随机变量的分布\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第7章 连续型随机变量的分布\n讲义\n习题1.1讲评视频\n习题1.2讲评视频\n\n\n第8章 抽样分布\n讲义\n习题1.1讲评视频\n习题1.2讲评视频"
+  },
+  {
+    "objectID": "第5篇.html",
+    "href": "第5篇.html",
+    "title": "第5篇 时间序列",
+    "section": "",
+    "text": "第16章 时间序列分析\n讲义\n习题1.1讲评视频\n习题1.2讲评视频"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "资源",
@@ -14,17 +56,10 @@
     "text": "扫描二维码访问作者B站主页"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "index.html#例题习题数据-点击下载",
+    "href": "index.html#例题习题数据-点击下载",
+    "title": "资源",
+    "section": "例题习题数据 点击下载",
+    "text": "例题习题数据 点击下载"
   }
 ]
