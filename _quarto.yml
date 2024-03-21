@@ -19,13 +19,10 @@ website:
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Li Zongzhang"
-
-
-
 format:
   html:
     theme: cerulean
+    fontcolor: "#044875"
     toc: true
-
 editor: source
 
