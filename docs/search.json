@@ -68,5 +68,75 @@
     "title": "资源",
     "section": "",
     "text": "扫描二维码访问作者B站主页"
+  },
+  {
+    "objectID": "chap1.html#第1章-统计分析与excel概览",
+    "href": "chap1.html#第1章-统计分析与excel概览",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "第1章 统计分析与Excel概览",
+    "text": "第1章 统计分析与Excel概览\n\n1.1 统计分析的步骤\n1.2 Excel的统计分析工具\n1.3 Excel常用技巧\n1.4 Excel的数据清洗工具"
+  },
+  {
+    "objectID": "chap1.html#统计分析的步骤",
+    "href": "chap1.html#统计分析的步骤",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.1 统计分析的步骤",
+    "text": "1.1 统计分析的步骤\n\n\n1.1.1 收集数据\n1.1.2 整理数据\n1.1.3 分析数据\n1.1.4 提炼结论"
+  },
+  {
+    "objectID": "chap1.html#统计分析的步骤-1",
+    "href": "chap1.html#统计分析的步骤-1",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.2 统计分析的步骤",
+    "text": "1.2 统计分析的步骤"
+  },
+  {
+    "objectID": "chap1.html#excel的统计分析工具",
+    "href": "chap1.html#excel的统计分析工具",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.3 Excel的统计分析工具",
+    "text": "1.3 Excel的统计分析工具"
+  },
+  {
+    "objectID": "chap1.html#excel常用技巧",
+    "href": "chap1.html#excel常用技巧",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.4 Excel常用技巧",
+    "text": "1.4 Excel常用技巧"
+  },
+  {
+    "objectID": "chap1.html#excel的数据清洗工具",
+    "href": "chap1.html#excel的数据清洗工具",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "Excel的数据清洗工具",
+    "text": "Excel的数据清洗工具"
+  },
+  {
+    "objectID": "chap1.html#收集数据",
+    "href": "chap1.html#收集数据",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.1.1 收集数据",
+    "text": "1.1.1 收集数据\n\n\n宏观数据\n微观数据\n截面数据\n时间序列\n定性数据\n定量数据"
+  },
+  {
+    "objectID": "chap1.html#整理数据",
+    "href": "chap1.html#整理数据",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.1.2 整理数据",
+    "text": "1.1.2 整理数据\n1.4节将介绍Excel中的数据清洗工具"
+  },
+  {
+    "objectID": "chap1.html#分析数据",
+    "href": "chap1.html#分析数据",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.1.3 分析数据",
+    "text": "1.1.3 分析数据\n\n\n第2章-第5章：描述统计方法\n第6章至第8章：推断统计准备知识\n第9章至第15章：推断统计方法\n第16章：时间序列"
+  },
+  {
+    "objectID": "chap1.html#提炼结论",
+    "href": "chap1.html#提炼结论",
+    "title": "第1章 统计分析与Excel概览",
+    "section": "1.1.4 提炼结论",
+    "text": "1.1.4 提炼结论"
   }
 ]
