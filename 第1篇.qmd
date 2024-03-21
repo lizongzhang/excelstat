@@ -4,8 +4,8 @@ title: "第1篇 开篇"
 
 # 第1章 统计分析与Excel概览
 
-[讲义](https://lizongzhang9.github.io/excelstat/chap1.html)
+[讲义](https://lizongzhang.github.io/excelstat/chap1.html)
 
 [习题1.1讲评视频]()
 
-[习题1.2讲评视频]()
+[习题1.2讲评视频] <to be updated>
