@@ -2,10 +2,20 @@
 title: "第5篇 时间序列"
 ---
 
-# 第16章 时间序列分析
+<h1 style="color: #044875;"> 第16章 时间序列分析 </h1>
 
-[讲义]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap1.html)
 
-[习题1.1讲评视频]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap1_slide.pptx?raw=true)
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.1讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.2讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.3讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.4讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.5讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.6讲评视频]<to be updated>

@@ -2,26 +2,48 @@
 title: "第3篇 推断统计分析知识准备"
 ---
 
-# 第6章 离散型随机变量的分布
+<h1 style="color: #044875;">第6章 离散型随机变量的分布 </h1>
 
-[讲义]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
 
-[习题1.1讲评视频]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.1讲评视频]<to be updated>
 
-# 第7章 连续型随机变量的分布
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.2讲评视频]<to be updated>
 
-[讲义]()
+<h1 style="color: #044875;"> 第7章 连续型随机变量的分布 </h1>
 
-[习题1.1讲评视频]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
 
-[习题1.2讲评视频]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
 
-# 第8章 抽样分布
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题7.1讲评视频]<to be updated>
 
-[讲义]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题7.2讲评视频]<to be updated>
 
-[习题1.1讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题7.3讲评视频]<to be updated>
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题7.4讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题7.5讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题7.6讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题7.7讲评视频]<to be updated>
+
+<h1 style="color: #044875;"> 第8章 抽样分布 </h1>
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
+
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题8.1讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题8.2讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题8.3讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题8.4讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题8.5讲评视频]<to be updated>

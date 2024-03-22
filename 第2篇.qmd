@@ -2,34 +2,51 @@
 title: "第2篇 描述统计分析"
 ---
 
-# 第2章 定性数据的图表展示
+<h1 style="color: #044875;"> 第2章 定性数据的图表展示</h1>
 
-[讲义]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap1.html)
 
-[习题1.1讲评视频]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap1_slide.pptx?raw=true)
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.1讲评视频]<to be updated>
 
-# 第3章 定量数据的图表展示
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.2讲评视频]<to be updated>
 
-[讲义]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.3讲评视频]<to be updated>
 
-[习题1.1讲评视频]()
+<h1 style="color: #044875;">  第3章 定量数据的图表展示</h1>
 
-[习题1.2讲评视频]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap1.html)
 
-# 第4章 二维数据的图表展示
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
 
-[讲义]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.1讲评视频]<to be updated>
 
-[习题1.1讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.2讲评视频]<to be updated>
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.3讲评视频]<to be updated>
 
-# 第5章 描述性统计量的计算
+<h1 style="color: #044875;"> 第4章 二维数据的图表展示 </h1>
 
-[讲义]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap1.html)
 
-[习题1.1讲评视频]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap1_slide.pptx?raw=true)
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.1讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.2讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.3讲评视频]<to be updated>
+
+<h1 style="color: #044875;"> 第5章 描述性统计量的计算 </h1>
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap1.html)
+
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap1_slide.pptx?raw=true)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.1讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.2讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.3讲评视频]<to be updated>
+

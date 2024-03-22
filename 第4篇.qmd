@@ -2,58 +2,98 @@
 title: "第4篇 推断统计分析方法"
 ---
 
-# 第9章 参数估计
+<h1 style="color: #044875;">第9章 参数估计 </h1>
 
-[讲义]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
 
-[习题1.1讲评视频]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.1讲评视频]<to be updated>
 
-# 第10章 假设检验
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.2讲评视频]<to be updated>
 
-[讲义]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.3讲评视频]<to be updated>
 
-[习题1.1讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.4讲评视频]<to be updated>
 
-[习题1.2讲评视频]()
+<h1 style="color: #044875;"> 第10章 假设检验 </h1>
 
-# 第11章 两个总体参数的检验
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
 
-[讲义]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
 
-[习题1.1讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.1讲评视频]<to be updated>
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.2讲评视频]<to be updated>
 
-# 第12章 多个总体参数的检验
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.3讲评视频]<to be updated>
 
-[讲义]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.4讲评视频]<to be updated>
 
-[习题1.1讲评视频]()
+<h1 style="color: #044875;"> 第11章 两个总体参数的检验 </h1>
 
-[习题1.2讲评视频]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
 
-# 第13章 非参数检验
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
 
-[讲义]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.1讲评视频]<to be updated>
 
-[习题1.1讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.2讲评视频]<to be updated>
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.3讲评视频]<to be updated>
 
-# 第14章 相关分析
+<h1 style="color: #044875;"> 第12章 多个总体参数的检验 </h1>
 
-[讲义]()
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
 
-[习题1.1讲评视频]()
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
 
-[习题1.2讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.1讲评视频]<to be updated>
 
-# 第15章 回归分析
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.2讲评视频]<to be updated>
 
-[讲义]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.3讲评视频]<to be updated>
 
-[习题1.1讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.4讲评视频]<to be updated>
 
-[习题1.2讲评视频]()
+<h1 style="color: #044875;">第13章 非参数检验 </h1>
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
+
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.1讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.2讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.3讲评视频]<to be updated>
+
+<h1 style="color: #044875;">第14章 相关分析 </h1>
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
+
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.1讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.2讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.3讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.4讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.5讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.6讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.7讲评视频]<to be updated>
+
+<h1 style="color: #044875;"> 第15章 回归分析 </h1>
+
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap6.html)
+
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题15.1讲评视频]<to be updated>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题15.2讲评视频]<to be updated>
