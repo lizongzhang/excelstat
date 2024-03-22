@@ -14,10 +14,10 @@ website:
       - 第4篇.qmd
       - 第5篇.qmd
     tools:
-      - icon: github
-        href: https://github.com/lizongzhang/excelstat
+      - icon: envelope
+        href: lizongzhang9@qq.com
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Data illuminates insights."
     left: "&copy; Copyright 2024, Li Zongzhang"
 format:
   html:
