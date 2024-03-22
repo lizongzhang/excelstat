@@ -10,4 +10,4 @@ title: "第1篇 开篇"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题1.1讲评视频](https://pan.baidu.com/s/1COvjhvzaZKVJpIZrqEznQA?pwd=6789)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题1.2讲评视频] <to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题1.2讲评视频](https://pan.baidu.com/s/1ERSKiBcecyS1jzHiH-ZI_Q?pwd=6789)
