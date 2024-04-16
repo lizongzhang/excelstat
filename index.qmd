@@ -9,7 +9,7 @@ about:
       href: https://pan.baidu.com/s/1KOmG3Aj5sftFruEC1Zn4Kg?pwd=6789
     - text: 习题讲评视频合集
       icon: collection-play
-      href: https://pan.baidu.com/s/1COvjhvzaZKVJpIZrqEznQA?pwd=6789
+      href: https://space.bilibili.com/590872906
     - text: 作者Email   
       icon: envelope
       href: mailto:lizongzhang9@qq.com
