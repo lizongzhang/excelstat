@@ -12,7 +12,7 @@
 
   <meta name="author" content="《精通Excel数据统计与分析》">
   <meta name="dcterms.date" content="2024-04-18">
-  <title>精通Excel数据统计与分析 - 第2章 定性数据的图表展示</title>
+  <title>精通Excel数据统计与分析 - 第4章 二维数据的图表展示</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -333,7 +333,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title"><span style="font-size: 90px;">第2章 定性数据的图表展示</span></h1>
+  <h1 class="title"><span style="font-size: 90px;">第4章 二维数据的图表展示</span></h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -345,95 +345,102 @@
 
   <p class="date">2024-04-18</p>
 </section>
-<section id="第2章-定性数据的图表展示" class="slide level2" data-auto-animate="true">
-<h2 data-id="quarto-animate-title">第2章 定性数据的图表展示</h2>
+<section id="第4章-二维数据的图表展示" class="slide level2" data-auto-animate="true">
+<h2 data-id="quarto-animate-title">第4章 二维数据的图表展示</h2>
+<p>::: incremental</p>
 <ul>
-<li><p>2.1 数据透视表</p></li>
-<li><p>2.2 饼图</p></li>
-<li><p>2.3 条形图</p></li>
-<li><p>2.4 树状图</p></li>
-<li><p>2.5 瀑布图</p></li>
+<li><p>4.1 列联表</p></li>
+<li><p>4.2 堆栈条形图</p></li>
+<li><p>4.3 分组直方图</p></li>
+<li><p>4.4 分组折线图</p></li>
+<li><p>4.5 分组箱线图</p></li>
+<li><p>4.6 散点图</p></li>
 </ul>
 </section>
-<section id="数据透视表" class="slide level2">
-<h2>2.1 数据透视表</h2>
-<div>
+<section id="列联表" class="slide level2">
+<h2>4.1 列联表</h2>
+<p>::: incremental</p>
 <ul>
-<li class="fragment"><p>2.1.1创建数据透视表</p></li>
-<li class="fragment"><p>2.1.2计算各组百分比</p></li>
-<li class="fragment"><p>2.1.3顺序数据的排序</p></li>
-<li class="fragment"><p>2.1.4计算累计百分比</p></li>
-</ul>
-</div>
-</section>
-<section id="创建数据透视表" class="slide level2">
-<h2>2.1.1创建数据透视表</h2>
-
-<img data-src="img/pic2.3.png" class="r-stretch quarto-figure-center"><p class="caption">图2.3 数据透视表布局</p></section>
-<section id="计算各组百分比" class="slide level2">
-<h2>2.1.2计算各组百分比</h2>
-
-<img data-src="img/pic2.5.png" class="r-stretch quarto-figure-center"><p class="caption">图2.5 数据透视表选项</p></section>
-<section id="顺序数据的排序" class="slide level2">
-<h2>2.1.3顺序数据的排序</h2>
-
-<img data-src="img/pic2.7.png" class="r-stretch quarto-figure-center"><p class="caption">图2.7 调整学历层次的显示顺序</p></section>
-<section id="计算累计百分比" class="slide level2">
-<h2>2.1.4计算累计百分比</h2>
-
-<img data-src="img/pic2.8.png" class="r-stretch quarto-figure-center"><p class="caption">图2.8 累计百分比的计算</p></section>
-<section id="数据透视表实操技巧" class="slide level2">
-<h2>2.1 数据透视表实操技巧</h2>
-<ul>
-<li><p>将定性变量拖曳到”行”框中或者”列”框中，将”个案”字段拖曳到”Σ值”框中，即可生成频数分布表。</p></li>
-<li><p>若拖曳到”Σ值”框中的字段是数字，如”序号”、“编号”，需要将”汇总方式”设置为”计数”，才能绘制频数分布表。</p></li>
-<li><p>选中”计数项”，单击”字段设置”按钮，在”数据显示方式”中可选择报告百分比、累计百分比等。</p></li>
-<li><p>对于顺序数据，要注意数据透视表中各组排列顺序是否符合逻辑。若不符合，可单击右键，移动某个组别的位置。</p></li>
-<li><p>若定性数据在某些组别观测值的个数极少，可以将这些小类合并为一个大类，让频数分布表的形式更加简洁。</p></li>
+<li><p>4.1.1 两个定性变量的列联表</p></li>
+<li><p>4.1.2 含有定量变量的列联表</p></li>
 </ul>
 </section>
-<section id="饼图" class="slide level2">
-<h2>2.2 饼图</h2>
+<section id="两个定性变量的列联表" class="slide level2">
+<h2>4.1.1 两个定性变量的列联表</h2>
 
-<img data-src="img/pic2.9.png" class="r-stretch quarto-figure-center"><p class="caption">图2.9 饼图的绘制</p></section>
-<section id="饼图实操技巧" class="slide level2">
-<h2>2.2 饼图实操技巧</h2>
+<img data-src="img/pic4.2.png" class="r-stretch quarto-figure-center"><p class="caption">图4.2 列联表中的行/列百分比</p></section>
+<section id="含有定量变量的列联表" class="slide level2">
+<h2>4.1.2 含有定量变量的列联表</h2>
+
+<img data-src="img/pic4.3.png" class="r-stretch quarto-figure-center"><p class="caption">图4.3 年薪和学历的分布</p></section>
+<section id="堆栈条形图" class="slide level2">
+<h2>4.2 堆栈条形图</h2>
+<p>::: incremental</p>
 <ul>
-<li><p>饼图是在频数分布表上创建的，不能在原始数据上创建。</p></li>
-<li><p>对顺序数据绘制饼图，扇区的排列需要反映不同组别的逻辑顺序，不要将扇区无序排列。</p></li>
-<li><p>单击饼图的扇区、背景等区域，在右键菜单中可对饼图进行个性化设置。</p></li>
+<li><p>4.2.1 普通堆栈条形图</p></li>
+<li><p>4.2.2 百分比堆栈条形图</p></li>
 </ul>
 </section>
-<section id="条形图" class="slide level2">
-<h2>2.3 条形图</h2>
+<section id="普通堆栈条形图" class="slide level2">
+<h2>4.2.1 普通堆栈条形图</h2>
+
+<img data-src="img/pic4.4.png" class="r-stretch quarto-figure-center"><p class="caption">图4.4 普通堆栈条形图</p></section>
+<section id="百分比堆栈条形图" class="slide level2">
+<h2>4.2.2 百分比堆栈条形图</h2>
+
+<img data-src="img/pic4.6.png" class="r-stretch quarto-figure-center"><p class="caption">图4.6 切换堆栈条形图的行/列局</p></section>
+<section id="百分比堆栈条形图实操技巧" class="slide level2">
+<h2>4.2.2 百分比堆栈条形图实操技巧</h2>
 <ul>
-<li><p>2.3.1普通条形图</p></li>
-<li><p>2.3.2帕累托图</p></li>
+<li><p>首先利用数据透视表创建一个定性变量和一个定量变量的列联表</p></li>
+<li><p>然后单击“插入” →“柱形图” →选择“簇状柱形图”</p></li>
+<li><p>将“系列重叠”设置为100%，“间隙宽度”设置为0%，创建分组直方图</p></li>
 </ul>
 </section>
-<section id="帕累托图" class="slide level2">
-<h2>2.3.2帕累托图</h2>
+<section id="分组直方图" class="slide level2">
+<h2>4.3 分组直方图</h2>
 
-<img data-src="img/pic2.11.png" class="r-stretch quarto-figure-center"><p class="caption">图2.11 帕累托图的绘制</p></section>
-<section id="帕累托图-1" class="slide level2">
-<h2>2.3.2帕累托图</h2>
+<img data-src="img/pic4.7.png" class="r-stretch quarto-figure-center"><p class="caption">图4.7分组直方图</p></section>
+<section id="分组折线图" class="slide level2">
+<h2>4.4 分组折线图</h2>
+<p>::: incremental</p>
 <ul>
-<li><p>条形图是基于定性数据的频数分布创建的，不能在原始数据上创建条形图。</p></li>
-<li><p>若数据透视表中有频数、百分比等多列数值。需将定性数据的组别和频数从数据透视表中复制出来，再创建条形图。不要在数据透视表上直接创建条形图。</p></li>
-<li><p>将频数按降序排列后，可以创建帕累托图。</p></li>
+<li><p>4.4.1 分组频数折线图</p></li>
+<li><p>4.4.2 分组百分比折线图</p></li>
+<li><p>4.4.3 分组累积百分比折线图</p></li>
 </ul>
 </section>
-<section id="树状图" class="slide level2">
-<h2>2.4 树状图</h2>
+<section id="分组频数折线图" class="slide level2">
+<h2>4.4.1 分组频数折线图</h2>
 
-<img data-src="img/pic2.13.png" class="r-stretch quarto-figure-center"><p class="caption">图2.13 按专业、学历层级分组树状图</p></section>
-<section id="瀑布图" class="slide level2">
-<h2>2.5 瀑布图</h2>
+<img data-src="img/pic4.9.png" class="r-stretch quarto-figure-center"><p class="caption">图4.9 分组折线图</p></section>
+<section id="分组百分比折线图" class="slide level2">
+<h2>4.4.2 分组百分比折线图</h2>
 
-<img data-src="img/pic2.15.png" class="r-stretch quarto-figure-center"><p class="caption">图2.15 CEO学历分布比重的瀑布图</p></section>
-<section id="本章总结" class="slide level2 scrollable">
-<h2>本章总结</h2>
-<p><img data-src="img/pic2.16.png"></p>
+<img data-src="img/pic4.10.png" class="r-stretch quarto-figure-center"><p class="caption">图4.10 分组百分比折线图</p></section>
+<section id="分组累积百分比折线图实操技巧" class="slide level2">
+<h2>4.4.3 分组累积百分比折线图实操技巧</h2>
+<p>首先利用数据透视表创建一个定性变量和一个定量变量的列联表</p>
+<p>然后单击“插入” →“柱形图” →选择“簇状柱形图”</p>
+<p>将“系列重叠”设置为100%，“间隙宽度”设置为0%，创建分组直方图</p>
+</section>
+<section id="分组箱线图实操技巧" class="slide level2">
+<h2>4.5 分组箱线图实操技巧</h2>
+<ul>
+<li><p>首先选中两列定量数据，然后单击“插入” →“散点图” ，创建散点图</p></li>
+<li><p>按下“Ctrl”键，再单击列名，可以选择不相邻的两列数据</p></li>
+</ul>
+</section>
+<section id="散点图实操技巧" class="slide level2">
+<h2>4.6 散点图实操技巧</h2>
+<ul>
+<li><p>首先选中两列定量数据，然后单击“插入” →“散点图” ，创建散点图</p></li>
+<li><p>按下“Ctrl”键，再单击列名，可以选择不相邻的两列数据</p></li>
+</ul>
+</section>
+<section id="第4章总结" class="slide level2">
+<h2>第4章总结</h2>
+<p><img data-src="img/pic4.14.png"></p>
 
 <div class="quarto-auto-generated-content">
 <p><img src="img/cover_3d.jpg" class="slide-logo"></p>
