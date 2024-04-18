@@ -4,8 +4,6 @@ author: "《精通Excel数据统计与分析》"
 format: pptx
 ---
 
-{style="color: #044875"}
-
 ## 第5章 描述性统计量的计算 {auto-animate="true"}
 
 -   5.1集中趋势

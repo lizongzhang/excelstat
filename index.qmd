@@ -10,6 +10,9 @@ about:
     - text: 习题讲评视频合集
       icon: collection-play
       href: https://space.bilibili.com/590872906/channel/collectiondetail?sid=2767222
+    - text: 京东链接
+      icon: globe2
+      href: https://item.jd.com/14544152.html      
     - text: 作者Email   
       icon: envelope
       href: mailto:lizongzhang9@qq.com
