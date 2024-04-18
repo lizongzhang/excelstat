@@ -21,7 +21,7 @@ about:
 
 :::{#ppc style="color: #2E96DB"}
 
-欢迎访问《精通Excel数据统计与分析》网站！
+欢迎访问《精通Excel数据统计与分析》配套网站！
 
 ![](img/bili_up.jpg){width=20%}
 :::
