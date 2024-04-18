@@ -18,7 +18,7 @@ title: "第2篇 描述统计分析"
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/excelstat/chap3.html)
 
-<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT]<https://github.com/lizongzhang/excelstat/blob/main/docs/chap3_slide.pptx?raw=true>
+<img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap3_slide.pptx?raw=true)
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.1讲评视频]<to be updated>
 
