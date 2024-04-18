@@ -1,7 +1,7 @@
 ---
-title: "<span style='font-size: 90px;'>第1章 统计分析与Excel概览</span>"
+title: "<span style='font-size: 90px;'>第3章 统计分析与Excel概览</span>"
 date: today
-author: "Li Zongzhang"
+author: "《精通Excel数据统计与分析》"
 format: 
   revealjs:
     incremental: FALSE
@@ -16,26 +16,32 @@ format:
     include-before-body: header.html
 ---
 
-## 第1章 统计分析与Excel概览{auto-animate="true"}
+## 第3章 定量数据的图表展示{auto-animate="true"}
 
--   1.1 统计分析的步骤
+-   3.1 直方图
 
--   1.2 Excel的统计分析工具
+-   3.2 分布折线图
 
--   1.3 Excel常用技巧
+-   3.3 箱线图
 
--   1.4 Excel的数据清洗工具
+-   3.4 茎叶图
 
-## 1.1 统计分析的步骤
+## 3.1 直方图
 
 ::: incremental
--   1.1.1 收集数据
--   1.1.2 整理数据
--   1.1.3 分析数据
--   1.1.4 提炼结论
+-   3.1.1 基于原始数据绘制直方图
+-   3.1.2 基于频数分布表绘制直方图
 :::
 
-## 1.1.1 收集数据
+## 3.1.1 基于原始数据绘制直方图
+![图3.2 设置直方图的分组区间](img/pic3.2.png)
+## 基于频数分布表绘制直方图
+![图3.2 设置直方图的分组区间](img/pic3.5.png)
+
+## 基于频数分布表绘制直方图
+![图3.2 设置直方图的分组区间](img/pic3.7.png)
+
+## 3.2 分布折线图
 
 ::: nonincremental
 -   宏观数据

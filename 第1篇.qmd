@@ -8,7 +8,7 @@ title: "第1篇 开篇"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap1_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题1.1讲评视频]()
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题1.1讲评视频](https://www.bilibili.com/video/BV1wm411271A/)
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题1.2讲评视频]()
 
