@@ -44,9 +44,9 @@
   {
     "objectID": "chap5.html#数据透视表实操技巧",
     "href": "chap5.html#数据透视表实操技巧",
-    "title": "第2章 定性数据的图表展示",
-    "section": "2.1 数据透视表实操技巧",
-    "text": "2.1 数据透视表实操技巧\n\n将定性变量拖曳到”行”框中或者”列”框中，将”个案”字段拖曳到”Σ值”框中，即可生成频数分布表。\n若拖曳到”Σ值”框中的字段是数字，如”序号”、“编号”，需要将”汇总方式”设置为”计数”，才能绘制频数分布表。\n选中”计数项”，单击”字段设置”按钮，在”数据显示方式”中可选择报告百分比、累计百分比等。\n对于顺序数据，要注意数据透视表中各组排列顺序是否符合逻辑。若不符合，可单击右键，移动某个组别的位置。\n若定性数据在某些组别观测值的个数极少，可以将这些小类合并为一个大类，让频数分布表的形式更加简洁。"
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.4.2 数据透视表实操技巧",
+    "text": "5.4.2 数据透视表实操技巧\n\n单击“数据” →“数据分析” →“描述统计” ，可以批量报告描述性统计量。\n创建数据透视表，将分组变量拖曳至“行框”，将数值型字段重复多次拖曳至“Σ值”框，设置字段的汇总方式设置为““平均值”、或“最大值”、“最小值”或“方差”等可以报告分组数据的描述性统计量。"
   },
   {
     "objectID": "chap5.html#饼图",
@@ -100,9 +100,9 @@
   {
     "objectID": "chap5.html#本章总结",
     "href": "chap5.html#本章总结",
-    "title": "第2章 定性数据的图表展示",
-    "section": "本章总结",
-    "text": "本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.5 本章总结",
+    "text": "5.5 本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
   },
   {
     "objectID": "第1篇.html",
@@ -1160,5 +1160,215 @@
     "title": "第4章 二维数据的图表展示",
     "section": "第4章总结",
     "text": "第4章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap5.html#第5章-描述性统计量的计算",
+    "href": "chap5.html#第5章-描述性统计量的计算",
+    "title": "第5章 描述性统计量的计算",
+    "section": "第5章 描述性统计量的计算",
+    "text": "第5章 描述性统计量的计算\n\n5.1集中趋势\n5.2 离散程度\n5.3 分布形状\n5.4 批量报告描述性统计量"
+  },
+  {
+    "objectID": "chap5.html#集中趋势",
+    "href": "chap5.html#集中趋势",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1集中趋势",
+    "text": "5.1集中趋势\n\n\n5.1.1 众数\n5.1.2 中位数\n5.1.3均值\n5.1.4 众数、中位数和平均数的适用场景"
+  },
+  {
+    "objectID": "chap5.html#众数",
+    "href": "chap5.html#众数",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.1 众数",
+    "text": "5.1.1 众数\n\n图5.1定性数据的众数"
+  },
+  {
+    "objectID": "chap5.html#中位数",
+    "href": "chap5.html#中位数",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.2 中位数",
+    "text": "5.1.2 中位数\n图5. 4 学历的中位数"
+  },
+  {
+    "objectID": "chap5.html#均值",
+    "href": "chap5.html#均值",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.3均值",
+    "text": "5.1.3均值\n\n图5.9均值和截尾均值"
+  },
+  {
+    "objectID": "chap5.html#众数中位数和平均数的适用场景",
+    "href": "chap5.html#众数中位数和平均数的适用场景",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.4 众数、中位数和平均数的适用场景",
+    "text": "5.1.4 众数、中位数和平均数的适用场景\n\n表5.1 数据类型与集中趋势统计量"
+  },
+  {
+    "objectID": "chap5.html#离散程度",
+    "href": "chap5.html#离散程度",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.2 离散程度",
+    "text": "5.2 离散程度\n\n\n5.2.1全距\n5.2.2 四分位距\n5.2.3 方差\n5.2.4标准差\n5.2.5 均值绝对离差\n5.2.6 中位数绝对离差\n5.2.7 离散系数"
+  },
+  {
+    "objectID": "chap5.html#离散程度-1",
+    "href": "chap5.html#离散程度-1",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.2 离散程度",
+    "text": "5.2 离散程度\n\n图5.16 离散程度统计量的计算"
+  },
+  {
+    "objectID": "chap5.html#离散程度实操技巧",
+    "href": "chap5.html#离散程度实操技巧",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.2 离散程度实操技巧",
+    "text": "5.2 离散程度实操技巧\n\n函数VAR.S、函数STDEV.S、函数AVEDEV分别计算样本方差、样本标准差和均值绝对离差。\n拖曳填充柄，可实现序列的类似计算，自动填充公式。"
+  },
+  {
+    "objectID": "chap5.html#分布形状",
+    "href": "chap5.html#分布形状",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.3 分布形状",
+    "text": "5.3 分布形状\n\n5.3.1 偏度\n5.3.2 峰度"
+  },
+  {
+    "objectID": "chap5.html#偏度",
+    "href": "chap5.html#偏度",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.3.1 偏度",
+    "text": "5.3.1 偏度\n\n表5.2 对称分布、左偏分布和右偏分布的比较"
+  },
+  {
+    "objectID": "chap5.html#峰度",
+    "href": "chap5.html#峰度",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.3.2 峰度",
+    "text": "5.3.2 峰度\n\n图5.21 尖峰分布"
+  },
+  {
+    "objectID": "chap5.html#批量报告描述性统计量",
+    "href": "chap5.html#批量报告描述性统计量",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.4 批量报告描述性统计量",
+    "text": "5.4 批量报告描述性统计量\n\n5.4.1数据分析描述统计\n5.4.2 数据透视表"
+  },
+  {
+    "objectID": "chap5.html#数据分析描述统计",
+    "href": "chap5.html#数据分析描述统计",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.4.1 数据分析描述统计",
+    "text": "5.4.1 数据分析描述统计\n\n图5.25 “描述统计”的输出结果"
+  },
+  {
+    "objectID": "chap5_slide.html#第5章-描述性统计量的计算",
+    "href": "chap5_slide.html#第5章-描述性统计量的计算",
+    "title": "第5章 描述性统计量的计算",
+    "section": "第5章 描述性统计量的计算",
+    "text": "第5章 描述性统计量的计算\n\n5.1集中趋势\n5.2 离散程度\n5.3 分布形状\n5.4 批量报告描述性统计量"
+  },
+  {
+    "objectID": "chap5_slide.html#集中趋势",
+    "href": "chap5_slide.html#集中趋势",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1集中趋势",
+    "text": "5.1集中趋势\n\n\n5.1.1 众数\n5.1.2 中位数\n5.1.3均值\n5.1.4 众数、中位数和平均数的适用场景"
+  },
+  {
+    "objectID": "chap5_slide.html#众数",
+    "href": "chap5_slide.html#众数",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.1 众数",
+    "text": "5.1.1 众数\n\n图5.1定性数据的众数"
+  },
+  {
+    "objectID": "chap5_slide.html#中位数",
+    "href": "chap5_slide.html#中位数",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.2 中位数",
+    "text": "5.1.2 中位数\n图5. 4 学历的中位数"
+  },
+  {
+    "objectID": "chap5_slide.html#均值",
+    "href": "chap5_slide.html#均值",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.3均值",
+    "text": "5.1.3均值\n\n图5.9均值和截尾均值"
+  },
+  {
+    "objectID": "chap5_slide.html#众数中位数和平均数的适用场景",
+    "href": "chap5_slide.html#众数中位数和平均数的适用场景",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.1.4 众数、中位数和平均数的适用场景",
+    "text": "5.1.4 众数、中位数和平均数的适用场景\n\n表5.1 数据类型与集中趋势统计量"
+  },
+  {
+    "objectID": "chap5_slide.html#离散程度",
+    "href": "chap5_slide.html#离散程度",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.2 离散程度",
+    "text": "5.2 离散程度\n\n\n5.2.1全距\n5.2.2 四分位距\n5.2.3 方差\n5.2.4标准差\n5.2.5 均值绝对离差\n5.2.6 中位数绝对离差\n5.2.7 离散系数"
+  },
+  {
+    "objectID": "chap5_slide.html#离散程度-1",
+    "href": "chap5_slide.html#离散程度-1",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.2 离散程度",
+    "text": "5.2 离散程度\n\n图5.16 离散程度统计量的计算"
+  },
+  {
+    "objectID": "chap5_slide.html#离散程度实操技巧",
+    "href": "chap5_slide.html#离散程度实操技巧",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.2 离散程度实操技巧",
+    "text": "5.2 离散程度实操技巧\n\n函数VAR.S、函数STDEV.S、函数AVEDEV分别计算样本方差、样本标准差和均值绝对离差。\n拖曳填充柄，可实现序列的类似计算，自动填充公式。"
+  },
+  {
+    "objectID": "chap5_slide.html#分布形状",
+    "href": "chap5_slide.html#分布形状",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.3 分布形状",
+    "text": "5.3 分布形状\n\n5.3.1 偏度\n5.3.2 峰度"
+  },
+  {
+    "objectID": "chap5_slide.html#偏度",
+    "href": "chap5_slide.html#偏度",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.3.1 偏度",
+    "text": "5.3.1 偏度\n\n表5.2 对称分布、左偏分布和右偏分布的比较"
+  },
+  {
+    "objectID": "chap5_slide.html#峰度",
+    "href": "chap5_slide.html#峰度",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.3.2 峰度",
+    "text": "5.3.2 峰度\n\n图5.21 尖峰分布"
+  },
+  {
+    "objectID": "chap5_slide.html#批量报告描述性统计量",
+    "href": "chap5_slide.html#批量报告描述性统计量",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.4 批量报告描述性统计量",
+    "text": "5.4 批量报告描述性统计量\n\n5.4.1数据分析描述统计\n5.4.2 数据透视表"
+  },
+  {
+    "objectID": "chap5_slide.html#数据分析描述统计",
+    "href": "chap5_slide.html#数据分析描述统计",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.4.1 数据分析描述统计",
+    "text": "5.4.1 数据分析描述统计\n\n图5.25 “描述统计”的输出结果"
+  },
+  {
+    "objectID": "chap5_slide.html#数据透视表实操技巧",
+    "href": "chap5_slide.html#数据透视表实操技巧",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.4.2 数据透视表实操技巧",
+    "text": "5.4.2 数据透视表实操技巧\n\n单击“数据” →“数据分析” →“描述统计” ，可以批量报告描述性统计量。\n创建数据透视表，将分组变量拖曳至“行框”，将数值型字段重复多次拖曳至“Σ值”框，设置字段的汇总方式设置为““平均值”、或“最大值”、“最小值”或“方差”等可以报告分组数据的描述性统计量。"
+  },
+  {
+    "objectID": "chap5_slide.html#本章总结",
+    "href": "chap5_slide.html#本章总结",
+    "title": "第5章 描述性统计量的计算",
+    "section": "5.5 本章总结",
+    "text": "5.5 本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
   }
 ]

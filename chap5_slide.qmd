@@ -1,20 +1,10 @@
 ---
-title: "<span style='font-size: 90px;'>第5章 描述性统计量的计算</span>"
-date: today
+title: "第5章 描述性统计量的计算"
 author: "《精通Excel数据统计与分析》"
-format: 
-  revealjs:
-    incremental: FALSE
-    theme: sky
-    slide-number: true
-    chalkboard: 
-      buttons: false
-    preview-links: auto
-    logo: img/cover_3d.jpg
-    css: styles.css
-    footer: <https://lizongzhang.github.io/excelstat>
-    include-before-body: header.html
+format: pptx
 ---
+
+{style="color: #044875"}
 
 ## 第5章 描述性统计量的计算 {auto-animate="true"}
 
@@ -29,15 +19,13 @@ format:
 ## 5.1集中趋势
 
 ::: incremental
+-   5.1.1 众数
 
--   5.1.1 众数	
+-   5.1.2 中位数
 
--   5.1.2 中位数	
-
--   5.1.3均值	
+-   5.1.3均值
 
 -   5.1.4 众数、中位数和平均数的适用场景
-
 :::
 
 ## 5.1.1 众数
@@ -45,18 +33,16 @@ format:
 ![图5.1定性数据的众数](img/pic5.1.png)
 
 ## 5.1.2 中位数
-图5. 4  学历的中位数
-![图5.4学历的中位数](img/pic5.4.png)
 
+图5. 4 学历的中位数 ![图5.4学历的中位数](img/pic5.4.png)
 
 ## 5.1.3均值
+
 ![图5.9均值和截尾均值](img/pic5.9.png)
 
 ## 5.1.4 众数、中位数和平均数的适用场景
 
 ![表5.1 数据类型与集中趋势统计量](img/pict5.1.png)
-
-
 
 ## 5.2 离散程度
 
@@ -65,16 +51,15 @@ format:
 
 -   5.2.2 四分位距
 
--   5.2.3 方差	
+-   5.2.3 方差
 
--   5.2.4标准差	
+-   5.2.4标准差
 
--   5.2.5 均值绝对离差	
+-   5.2.5 均值绝对离差
 
--   5.2.6 中位数绝对离差	
+-   5.2.6 中位数绝对离差
 
--   5.2.7 离散系数 
-
+-   5.2.7 离散系数
 :::
 
 ## 5.2 离散程度
@@ -83,12 +68,9 @@ format:
 
 ## 5.2 离散程度实操技巧
 
-
 -   函数VAR.S、函数STDEV.S、函数AVEDEV分别计算样本方差、样本标准差和均值绝对离差。
 
 -   拖曳填充柄，可实现序列的类似计算，自动填充公式。
-
-
 
 ## 5.3 分布形状
 
@@ -97,22 +79,22 @@ format:
 -   5.3.2 峰度
 
 ## 5.3.1 偏度
+
 ![表5.2 对称分布、左偏分布和右偏分布的比较](img/pict5.2.png)
 
 ## 5.3.2 峰度
 
-![图5.21  尖峰分布](img/pic5.21.png)
-
+![图5.21 尖峰分布](img/pic5.21.png)
 
 ## 5.4 批量报告描述性统计量
 
 -   5.4.1数据分析描述统计
 
--   5.4.2 数据透视表	
+-   5.4.2 数据透视表
 
 ## 5.4.1 数据分析描述统计
 
-![图5.25  “描述统计”的输出结果](img/pic5.25.png)
+![图5.25 “描述统计”的输出结果](img/pic5.25.png)
 
 ## 5.4.2 数据透视表实操技巧
 
@@ -124,5 +106,4 @@ format:
 
 ![](img/pic5.28.png)
 
-
-
+</span>
