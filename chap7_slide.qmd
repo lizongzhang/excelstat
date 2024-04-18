@@ -1,21 +1,8 @@
 ---
-title: "<span style='font-size: 90px;'>第7章 连续型随机变量的分布</span>"
-date: today
+title: "第7章 离散型随机变量的分布"
 author: "《精通Excel数据统计与分析》"
-format: 
-  revealjs:
-    incremental: FALSE
-    theme: sky
-    slide-number: true
-    chalkboard: 
-      buttons: false
-    preview-links: auto
-    logo: img/cover_3d.jpg
-    css: styles.css
-    footer: <https://lizongzhang.github.io/excelstat>
-    include-before-body: header.html
+format: pptx
 ---
-
 ## 第7章 连续型随机变量的分布
 ::: incremental
 

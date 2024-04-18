@@ -527,105 +527,105 @@
   {
     "objectID": "chap8.html#第2章-定性数据的图表展示",
     "href": "chap8.html#第2章-定性数据的图表展示",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "第2章 定性数据的图表展示",
     "text": "第2章 定性数据的图表展示\n\n2.1 数据透视表\n2.2 饼图\n2.3 条形图\n2.4 树状图\n2.5 瀑布图"
   },
   {
     "objectID": "chap8.html#数据透视表",
     "href": "chap8.html#数据透视表",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.1 数据透视表",
     "text": "2.1 数据透视表\n\n\n2.1.1创建数据透视表\n2.1.2计算各组百分比\n2.1.3顺序数据的排序\n2.1.4计算累计百分比"
   },
   {
     "objectID": "chap8.html#创建数据透视表",
     "href": "chap8.html#创建数据透视表",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.1.1创建数据透视表",
     "text": "2.1.1创建数据透视表\n\n图2.3 数据透视表布局"
   },
   {
     "objectID": "chap8.html#计算各组百分比",
     "href": "chap8.html#计算各组百分比",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.1.2计算各组百分比",
     "text": "2.1.2计算各组百分比\n\n图2.5 数据透视表选项"
   },
   {
     "objectID": "chap8.html#顺序数据的排序",
     "href": "chap8.html#顺序数据的排序",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.1.3顺序数据的排序",
     "text": "2.1.3顺序数据的排序\n\n图2.7 调整学历层次的显示顺序"
   },
   {
     "objectID": "chap8.html#计算累计百分比",
     "href": "chap8.html#计算累计百分比",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.1.4计算累计百分比",
     "text": "2.1.4计算累计百分比\n\n图2.8 累计百分比的计算"
   },
   {
     "objectID": "chap8.html#数据透视表实操技巧",
     "href": "chap8.html#数据透视表实操技巧",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.1 数据透视表实操技巧",
     "text": "2.1 数据透视表实操技巧\n\n将定性变量拖曳到”行”框中或者”列”框中，将”个案”字段拖曳到”Σ值”框中，即可生成频数分布表。\n若拖曳到”Σ值”框中的字段是数字，如”序号”、“编号”，需要将”汇总方式”设置为”计数”，才能绘制频数分布表。\n选中”计数项”，单击”字段设置”按钮，在”数据显示方式”中可选择报告百分比、累计百分比等。\n对于顺序数据，要注意数据透视表中各组排列顺序是否符合逻辑。若不符合，可单击右键，移动某个组别的位置。\n若定性数据在某些组别观测值的个数极少，可以将这些小类合并为一个大类，让频数分布表的形式更加简洁。"
   },
   {
     "objectID": "chap8.html#饼图",
     "href": "chap8.html#饼图",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.2 饼图",
     "text": "2.2 饼图\n\n图2.9 饼图的绘制"
   },
   {
     "objectID": "chap8.html#饼图实操技巧",
     "href": "chap8.html#饼图实操技巧",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.2 饼图实操技巧",
     "text": "2.2 饼图实操技巧\n\n饼图是在频数分布表上创建的，不能在原始数据上创建。\n对顺序数据绘制饼图，扇区的排列需要反映不同组别的逻辑顺序，不要将扇区无序排列。\n单击饼图的扇区、背景等区域，在右键菜单中可对饼图进行个性化设置。"
   },
   {
     "objectID": "chap8.html#条形图",
     "href": "chap8.html#条形图",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.3 条形图",
     "text": "2.3 条形图\n\n2.3.1普通条形图\n2.3.2帕累托图"
   },
   {
     "objectID": "chap8.html#帕累托图",
     "href": "chap8.html#帕累托图",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.3.2帕累托图",
     "text": "2.3.2帕累托图\n\n图2.11 帕累托图的绘制"
   },
   {
     "objectID": "chap8.html#帕累托图-1",
     "href": "chap8.html#帕累托图-1",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.3.2帕累托图",
     "text": "2.3.2帕累托图\n\n条形图是基于定性数据的频数分布创建的，不能在原始数据上创建条形图。\n若数据透视表中有频数、百分比等多列数值。需将定性数据的组别和频数从数据透视表中复制出来，再创建条形图。不要在数据透视表上直接创建条形图。\n将频数按降序排列后，可以创建帕累托图。"
   },
   {
     "objectID": "chap8.html#树状图",
     "href": "chap8.html#树状图",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.4 树状图",
     "text": "2.4 树状图\n\n图2.13 按专业、学历层级分组树状图"
   },
   {
     "objectID": "chap8.html#瀑布图",
     "href": "chap8.html#瀑布图",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "2.5 瀑布图",
     "text": "2.5 瀑布图\n\n图2.15 CEO学历分布比重的瀑布图"
   },
   {
     "objectID": "chap8.html#本章总结",
     "href": "chap8.html#本章总结",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第8章 抽样分布",
     "section": "本章总结",
     "text": "本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
   },
@@ -634,7 +634,7 @@
     "href": "第3篇.html",
     "title": "第3篇 推断统计分析知识准备",
     "section": "",
-    "text": "第6章 离散型随机变量的分布\n\n讲义\n下载讲义PPT\n[习题6.1讲评视频]\n[习题6.2讲评视频]\n\n第7章 连续型随机变量的分布\n\n讲义\n[下载讲义PPT]\n[习题7.1讲评视频]\n[习题7.2讲评视频]\n[习题7.3讲评视频]\n[习题7.4讲评视频]\n[习题7.5讲评视频]\n[习题7.6讲评视频]\n[习题7.7讲评视频]\n\n第8章 抽样分布\n\n讲义\n[下载讲义PPT]\n[习题8.1讲评视频]\n[习题8.2讲评视频]\n[习题8.3讲评视频]\n[习题8.4讲评视频]\n[习题8.5讲评视频]"
+    "text": "第6章 离散型随机变量的分布\n\n讲义\n下载讲义PPT\n[习题6.1讲评视频]\n[习题6.2讲评视频]\n\n第7章 连续型随机变量的分布\n\n讲义\n下载讲义PPT\n[习题7.1讲评视频]\n[习题7.2讲评视频]\n[习题7.3讲评视频]\n[习题7.4讲评视频]\n[习题7.5讲评视频]\n[习题7.6讲评视频]\n[习题7.7讲评视频]\n\n第8章 抽样分布\n\n讲义\n下载讲义PPT\n[习题8.1讲评视频]\n[习题8.2讲评视频]\n[习题8.3讲评视频]\n[习题8.4讲评视频]\n[习题8.5讲评视频]"
   },
   {
     "objectID": "第4篇.html",
@@ -940,7 +940,7 @@
   {
     "objectID": "chap7.html#本章总结",
     "href": "chap7.html#本章总结",
-    "title": "第2章 定性数据的图表展示",
+    "title": "第7章 连续型随机变量的分布",
     "section": "本章总结",
     "text": "本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
   },
@@ -1655,6 +1655,405 @@
     "objectID": "chap6_slide.html#本章总结",
     "href": "chap6_slide.html#本章总结",
     "title": "第6章 离散型随机变量的分布",
+    "section": "本章总结",
+    "text": "本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap7.html#关键概念",
+    "href": "chap7.html#关键概念",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.1 关键概念",
+    "text": "7.1 关键概念\n\n\n7.1.1 连续型随机变量\n7.1.2 概率密度函数\n7.1.3 累积分布函数\n7.1.4 连续型随机变量的期望和方差"
+  },
+  {
+    "objectID": "chap7.html#连续型随机变量",
+    "href": "chap7.html#连续型随机变量",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.1.1 连续型随机变量",
+    "text": "7.1.1 连续型随机变量\n连续型随机变量是指随机变量在一定范围内可以取无限多个值，无法一一列举其取值。"
+  },
+  {
+    "objectID": "chap7.html#概率密度函数",
+    "href": "chap7.html#概率密度函数",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.1.2 概率密度函数",
+    "text": "7.1.2 概率密度函数\n概率密度函数（Probability Density Function，简称PDF），描述了连续型随机变量X的分布"
+  },
+  {
+    "objectID": "chap7.html#累积分布函数",
+    "href": "chap7.html#累积分布函数",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.1.3 累积分布函数",
+    "text": "7.1.3 累积分布函数"
+  },
+  {
+    "objectID": "chap7.html#连续型随机变量的期望和方差",
+    "href": "chap7.html#连续型随机变量的期望和方差",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.1.4 连续型随机变量的期望和方差 ",
+    "text": "7.1.4 连续型随机变量的期望和方差"
+  },
+  {
+    "objectID": "chap7.html#均匀分布",
+    "href": "chap7.html#均匀分布",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.2 均匀分布",
+    "text": "7.2 均匀分布\n\n均匀分布的概率密度函数\n均匀分布的累积分布函数\n均匀分布的期望和方差"
+  },
+  {
+    "objectID": "chap7.html#均匀分布的概率密度函数",
+    "href": "chap7.html#均匀分布的概率密度函数",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.2 均匀分布的概率密度函数",
+    "text": "7.2 均匀分布的概率密度函数"
+  },
+  {
+    "objectID": "chap7.html#均匀分布的累积分布函数",
+    "href": "chap7.html#均匀分布的累积分布函数",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.2 均匀分布的累积分布函数",
+    "text": "7.2 均匀分布的累积分布函数"
+  },
+  {
+    "objectID": "chap7.html#均匀分布的期望和方差",
+    "href": "chap7.html#均匀分布的期望和方差",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.2 均匀分布的期望和方差",
+    "text": "7.2 均匀分布的期望和方差"
+  },
+  {
+    "objectID": "chap7.html#正态分布",
+    "href": "chap7.html#正态分布",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.3 正态分布",
+    "text": "7.3 正态分布\n正态分布的概率密度函数"
+  },
+  {
+    "objectID": "chap7.html#正态分布的应用",
+    "href": "chap7.html#正态分布的应用",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.3.3 正态分布的应用",
+    "text": "7.3.3 正态分布的应用\n\n\n7.3.1 正态分布的性质\n7.3.2 Excel绘制正态分布的PDF和CDF\n7.3.3 正态分布的应用"
+  },
+  {
+    "objectID": "chap7.html#正态分布的性质",
+    "href": "chap7.html#正态分布的性质",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.3.1 正态分布的性质",
+    "text": "7.3.1 正态分布的性质\n ## 7.3.1 Excel实操技巧\n\n在NORM.DIST函数中，将最后一项参数设置为“FALSE”，计算正态分布的概率密度函数的值；最后一项参数设置为“TRUE”，计算正态分布的累积分布函数的值，即服从正态分布的随机变量小于等于指定值的概率。\n在NORM.S.DIST函数中，将最后一项参数设置为“FALSE”，计算标准正态分布概率密度函数的值；最后一项参数设置为“TRUE”，计算标准正态分布的累积分布函数的值，即服从标准正态分布的随机变量小于等于指定值的概率。"
+  },
+  {
+    "objectID": "chap7.html#excel绘制正态分布的pdf和cdf",
+    "href": "chap7.html#excel绘制正态分布的pdf和cdf",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.3.2 Excel绘制正态分布的PDF和CDF",
+    "text": "7.3.2 Excel绘制正态分布的PDF和CDF\n ## 7.3.3 正态分布的应用\n\n诊断数据中是否存在异常值\n计算服从正态分布的随机变量落在特定区间的概率\n给定服从正态分布的随机变量落在某个区间的概率，求该区间。\n诊断数据是否服从正态分布"
+  },
+  {
+    "objectID": "chap7.html#正态分布excel实操技巧",
+    "href": "chap7.html#正态分布excel实操技巧",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "正态分布Excel实操技巧",
+    "text": "正态分布Excel实操技巧\n\nNORM.INV函数适用于普通的正态分布，有三项参数，依次是左尾概率1-α、均值μ和标准差σ，可以求出正态分布N(μ,σ^2 )的上α分位点。\nNORM.S.INV函数只适用于标准正态分布，给定左尾概率1-α，可以求出标准正态分布的上α分位点。"
+  },
+  {
+    "objectID": "chap7.html#卡方分布",
+    "href": "chap7.html#卡方分布",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.4 卡方分布",
+    "text": "7.4 卡方分布\n\n\n7.4.1 卡方分布的性质\n7.4.2 EXCEL绘制卡方分布的PDF和CDF\n7.4.3 卡方分布的应用"
+  },
+  {
+    "objectID": "chap7.html#卡方分布的性质",
+    "href": "chap7.html#卡方分布的性质",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.4.1 卡方分布的性质",
+    "text": "7.4.1 卡方分布的性质"
+  },
+  {
+    "objectID": "chap7.html#卡方分布的性质-1",
+    "href": "chap7.html#卡方分布的性质-1",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.4.1 卡方分布的性质",
+    "text": "7.4.1 卡方分布的性质"
+  },
+  {
+    "objectID": "chap7.html#excel绘制卡方分布的pdf和cdf",
+    "href": "chap7.html#excel绘制卡方分布的pdf和cdf",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.4.2 EXCEL绘制卡方分布的PDF和CDF",
+    "text": "7.4.2 EXCEL绘制卡方分布的PDF和CDF"
+  },
+  {
+    "objectID": "chap7.html#卡方分布的应用",
+    "href": "chap7.html#卡方分布的应用",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.4.3 卡方分布的应用",
+    "text": "7.4.3 卡方分布的应用\n\n总体方差的置信区间的构造\n总体方差的参数检验\n独立性检验"
+  },
+  {
+    "objectID": "chap7.html#t分布",
+    "href": "chap7.html#t分布",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.5 t分布",
+    "text": "7.5 t分布\n\n\n7.5.1 t分布的性质\n7.5.2 EXCEL绘制t分布的PDF和CDF\n7.5.3 t分布的应用"
+  },
+  {
+    "objectID": "chap7.html#t分布的性质",
+    "href": "chap7.html#t分布的性质",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.5.1 t分布的性质",
+    "text": "7.5.1 t分布的性质"
+  },
+  {
+    "objectID": "chap7.html#excel绘制t分布的pdf和cdf",
+    "href": "chap7.html#excel绘制t分布的pdf和cdf",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.5.2 EXCEL绘制t分布的PDF和CDF",
+    "text": "7.5.2 EXCEL绘制t分布的PDF和CDF"
+  },
+  {
+    "objectID": "chap7.html#t分布的应用",
+    "href": "chap7.html#t分布的应用",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.5.3 t分布的应用",
+    "text": "7.5.3 t分布的应用\n\n总体均值的置信区间的构造\n总体均值的参数检验\n两个总体均值的参数检验"
+  },
+  {
+    "objectID": "chap7.html#f分布",
+    "href": "chap7.html#f分布",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.6 F分布",
+    "text": "7.6 F分布\n\n\n7.6.1 F分布的性质\n7.6.2 EXCEL绘制F分布的PDF和CDF\n7.6.3 F分布的应用"
+  },
+  {
+    "objectID": "chap7.html#f分布的性质",
+    "href": "chap7.html#f分布的性质",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.6.1 F分布的性质",
+    "text": "7.6.1 F分布的性质"
+  },
+  {
+    "objectID": "chap7.html#excel绘制f分布的pdf和cdf",
+    "href": "chap7.html#excel绘制f分布的pdf和cdf",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.6.2 EXCEL绘制F分布的PDF和CDF",
+    "text": "7.6.2 EXCEL绘制F分布的PDF和CDF\n\n图7.27 F(3,8)、F(10,20)、F(30,30)、F(100,1000)的概率密度曲线"
+  },
+  {
+    "objectID": "chap7.html#f分布的应用",
+    "href": "chap7.html#f分布的应用",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.6.3 F分布的应用",
+    "text": "7.6.3 F分布的应用"
+  },
+  {
+    "objectID": "chap7.html#指数分布",
+    "href": "chap7.html#指数分布",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.7 指数分布",
+    "text": "7.7 指数分布\n\n两个总体的方差比的检验\n方差分析\n\n\n\n7.7.1 指数分布的性质\n7.7.2 EXCEL绘制指数分布的PDF和CDF\n7.7.3 指数分布的应用"
+  },
+  {
+    "objectID": "chap7.html#指数分布的性质",
+    "href": "chap7.html#指数分布的性质",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.7.1 指数分布的性质",
+    "text": "7.7.1 指数分布的性质"
+  },
+  {
+    "objectID": "chap7.html#excel绘制指数分布的pdf和cdf",
+    "href": "chap7.html#excel绘制指数分布的pdf和cdf",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.7.2 EXCEL绘制指数分布的PDF和CDF",
+    "text": "7.7.2 EXCEL绘制指数分布的PDF和CDF\n\n图7.29 “Exp”(5)、“Exp”(2)、“Exp”(1)、“Exp”(0.2)的概率密度曲线"
+  },
+  {
+    "objectID": "chap7.html#指数分布的应用",
+    "href": "chap7.html#指数分布的应用",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "7.7.3 指数分布的应用",
+    "text": "7.7.3 指数分布的应用\n\n排队问题\n到银行柜台办理业务的顾客到达的时间间隔的分布\n急救中心收到的呼救电话的时间间隔的分布"
+  },
+  {
+    "objectID": "chap7.html#第7章-连续型随机变量的分布",
+    "href": "chap7.html#第7章-连续型随机变量的分布",
+    "title": "第7章 连续型随机变量的分布",
+    "section": "第7章 连续型随机变量的分布",
+    "text": "第7章 连续型随机变量的分布\n\n\n7.1 关键概念\n7.2 均匀分布\n7.3 正态分布\n7.4 卡方分布\n7.5 t分布\n7.6 F分布\n7.7 指数分布"
+  },
+  {
+    "objectID": "chap8.html#第8章-抽样分布",
+    "href": "chap8.html#第8章-抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "第8章 抽样分布",
+    "text": "第8章 抽样分布\n\n\n8.1 抽样分布\n8.2 样本均值的抽样分布\n8.3 样本比例的抽样分布"
+  },
+  {
+    "objectID": "chap8.html#抽样分布",
+    "href": "chap8.html#抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "8.1 抽样分布",
+    "text": "8.1 抽样分布\n\n\n8.1.1 参数和统计量\n8.1.2 抽样分布的定义"
+  },
+  {
+    "objectID": "chap8.html#样本均值的抽样分布",
+    "href": "chap8.html#样本均值的抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "8.2 样本均值的抽样分布",
+    "text": "8.2 样本均值的抽样分布\n\n\n8.2.1 样本均值的期望和方差\n8.2.2 样本均值的分布形状\n8.2.3 实践应用"
+  },
+  {
+    "objectID": "chap8.html#样本比例的抽样分布",
+    "href": "chap8.html#样本比例的抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "8.3 样本比例的抽样分布",
+    "text": "8.3 样本比例的抽样分布\n\n\n8.3.1 样本比例的期望和方差\n8.3.2 样本比例的分布形状\n8.3.3 实践应用"
+  },
+  {
+    "objectID": "chap8.html#参数和统计量",
+    "href": "chap8.html#参数和统计量",
+    "title": "第8章 抽样分布",
+    "section": "8.1.1 参数和统计量",
+    "text": "8.1.1 参数和统计量\n参数（parameter）描述的是总体的分布特征。\n统计量（statistic）描述的是样本的分布特征。"
+  },
+  {
+    "objectID": "chap8.html#抽样分布的定义",
+    "href": "chap8.html#抽样分布的定义",
+    "title": "第8章 抽样分布",
+    "section": "8.1.2 抽样分布的定义",
+    "text": "8.1.2 抽样分布的定义\n抽样分布（Sampling Distribution）是指样本统计量的分布。"
+  },
+  {
+    "objectID": "chap8.html#样本均值的期望和方差",
+    "href": "chap8.html#样本均值的期望和方差",
+    "title": "第8章 抽样分布",
+    "section": "8.2.1 样本均值的期望和方差",
+    "text": "8.2.1 样本均值的期望和方差"
+  },
+  {
+    "objectID": "chap8.html#样本均值的标准误",
+    "href": "chap8.html#样本均值的标准误",
+    "title": "第8章 抽样分布",
+    "section": "8.2.1 样本均值的标准误",
+    "text": "8.2.1 样本均值的标准误"
+  },
+  {
+    "objectID": "chap8.html#样本均值的分布形状",
+    "href": "chap8.html#样本均值的分布形状",
+    "title": "第8章 抽样分布",
+    "section": "8.2.2 样本均值的分布形状",
+    "text": "8.2.2 样本均值的分布形状\n\n图8.3 总体服从正态分布，样本均值（n = 5）的直方图"
+  },
+  {
+    "objectID": "chap8.html#实践应用",
+    "href": "chap8.html#实践应用",
+    "title": "第8章 抽样分布",
+    "section": "8.2.3 实践应用",
+    "text": "8.2.3 实践应用"
+  },
+  {
+    "objectID": "chap8.html#样本比例的期望和方差",
+    "href": "chap8.html#样本比例的期望和方差",
+    "title": "第8章 抽样分布",
+    "section": "8.3.1 样本比例的期望和方差",
+    "text": "8.3.1 样本比例的期望和方差"
+  },
+  {
+    "objectID": "chap8.html#样本比例的分布形状",
+    "href": "chap8.html#样本比例的分布形状",
+    "title": "第8章 抽样分布",
+    "section": "8.3.2 样本比例的分布形状",
+    "text": "8.3.2 样本比例的分布形状"
+  },
+  {
+    "objectID": "chap8_slide.html#第8章-抽样分布",
+    "href": "chap8_slide.html#第8章-抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "第8章 抽样分布",
+    "text": "第8章 抽样分布\n\n\n8.1 抽样分布\n8.2 样本均值的抽样分布\n8.3 样本比例的抽样分布"
+  },
+  {
+    "objectID": "chap8_slide.html#抽样分布",
+    "href": "chap8_slide.html#抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "8.1 抽样分布",
+    "text": "8.1 抽样分布\n\n\n8.1.1 参数和统计量\n8.1.2 抽样分布的定义"
+  },
+  {
+    "objectID": "chap8_slide.html#参数和统计量",
+    "href": "chap8_slide.html#参数和统计量",
+    "title": "第8章 抽样分布",
+    "section": "8.1.1 参数和统计量",
+    "text": "8.1.1 参数和统计量\n参数（parameter）描述的是总体的分布特征。\n统计量（statistic）描述的是样本的分布特征。"
+  },
+  {
+    "objectID": "chap8_slide.html#抽样分布的定义",
+    "href": "chap8_slide.html#抽样分布的定义",
+    "title": "第8章 抽样分布",
+    "section": "8.1.2 抽样分布的定义",
+    "text": "8.1.2 抽样分布的定义\n抽样分布（Sampling Distribution）是指样本统计量的分布。"
+  },
+  {
+    "objectID": "chap8_slide.html#样本均值的抽样分布",
+    "href": "chap8_slide.html#样本均值的抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "8.2 样本均值的抽样分布",
+    "text": "8.2 样本均值的抽样分布\n\n\n8.2.1 样本均值的期望和方差\n8.2.2 样本均值的分布形状\n8.2.3 实践应用"
+  },
+  {
+    "objectID": "chap8_slide.html#样本均值的期望和方差",
+    "href": "chap8_slide.html#样本均值的期望和方差",
+    "title": "第8章 抽样分布",
+    "section": "8.2.1 样本均值的期望和方差",
+    "text": "8.2.1 样本均值的期望和方差"
+  },
+  {
+    "objectID": "chap8_slide.html#样本均值的标准误",
+    "href": "chap8_slide.html#样本均值的标准误",
+    "title": "第8章 抽样分布",
+    "section": "8.2.1 样本均值的标准误",
+    "text": "8.2.1 样本均值的标准误"
+  },
+  {
+    "objectID": "chap8_slide.html#样本均值的分布形状",
+    "href": "chap8_slide.html#样本均值的分布形状",
+    "title": "第8章 抽样分布",
+    "section": "8.2.2 样本均值的分布形状",
+    "text": "8.2.2 样本均值的分布形状\n\n图8.3 总体服从正态分布，样本均值（n = 5）的直方图"
+  },
+  {
+    "objectID": "chap8_slide.html#实践应用",
+    "href": "chap8_slide.html#实践应用",
+    "title": "第8章 抽样分布",
+    "section": "8.2.3 实践应用",
+    "text": "8.2.3 实践应用"
+  },
+  {
+    "objectID": "chap8_slide.html#样本比例的抽样分布",
+    "href": "chap8_slide.html#样本比例的抽样分布",
+    "title": "第8章 抽样分布",
+    "section": "8.3 样本比例的抽样分布",
+    "text": "8.3 样本比例的抽样分布\n\n\n8.3.1 样本比例的期望和方差\n8.3.2 样本比例的分布形状\n8.3.3 实践应用"
+  },
+  {
+    "objectID": "chap8_slide.html#样本比例的期望和方差",
+    "href": "chap8_slide.html#样本比例的期望和方差",
+    "title": "第8章 抽样分布",
+    "section": "8.3.1 样本比例的期望和方差",
+    "text": "8.3.1 样本比例的期望和方差"
+  },
+  {
+    "objectID": "chap8_slide.html#样本比例的分布形状",
+    "href": "chap8_slide.html#样本比例的分布形状",
+    "title": "第8章 抽样分布",
+    "section": "8.3.2 样本比例的分布形状",
+    "text": "8.3.2 样本比例的分布形状"
+  },
+  {
+    "objectID": "chap8_slide.html#本章总结",
+    "href": "chap8_slide.html#本章总结",
+    "title": "第8章 抽样分布",
     "section": "本章总结",
     "text": "本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
   }
