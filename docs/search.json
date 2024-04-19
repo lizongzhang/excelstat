@@ -2874,14 +2874,14 @@
     "href": "chap12.html#第12章-多个总体参数的检验",
     "title": "第12章 多个总体参数的检验 ",
     "section": "第12章 多个总体参数的检验",
-    "text": "第12章 多个总体参数的检验\n\n\n12.1多个总体均值是否相等的检验：方差分析\n12.2单因素方差分析在Excel中的实现\n12.3 无重复双因素方差分析在Excel中的实现\n12.4 可重复双因素方差分析在Excel中的实现\n12.5 多个总体的方差齐性检验\n12.5.1 Levene检验的思想"
+    "text": "第12章 多个总体参数的检验\n\n\n12.1多个总体均值是否相等的检验：方差分析\n12.2单因素方差分析在Excel中的实现\n12.3 无重复双因素方差分析在Excel中的实现\n12.4 可重复双因素方差分析在Excel中的实现\n12.5 多个总体的方差齐性检验"
   },
   {
     "objectID": "chap12.html#多个总体均值是否相等的检验方差分析",
     "href": "chap12.html#多个总体均值是否相等的检验方差分析",
     "title": "第12章 多个总体参数的检验 ",
     "section": "12.1多个总体均值是否相等的检验：方差分析",
-    "text": "12.1多个总体均值是否相等的检验：方差分析"
+    "text": "12.1多个总体均值是否相等的检验：方差分析\n\n表12.1 方差分析的数据结构"
   },
   {
     "objectID": "chap12.html#多个总体均值是否相等的检验方差分析-1",
@@ -2895,14 +2895,14 @@
     "href": "chap12.html#多个总体均值是否相等的检验方差分析-2",
     "title": "第12章 多个总体参数的检验 ",
     "section": "12.1多个总体均值是否相等的检验：方差分析",
-    "text": "12.1多个总体均值是否相等的检验：方差分析"
+    "text": "12.1多个总体均值是否相等的检验：方差分析\n\n图12. 1 方差分析的拒绝域和p值"
   },
   {
     "objectID": "chap12.html#单因素方差分析在excel中的实现",
     "href": "chap12.html#单因素方差分析在excel中的实现",
     "title": "第12章 多个总体参数的检验 ",
     "section": "12.2单因素方差分析在Excel中的实现",
-    "text": "12.2单因素方差分析在Excel中的实现\n ## 12.2单因素方差分析在Excel中的实现\n\n实操技巧\n调用“数据分析”加载项中的“方差分析：单因素方差分析”可以进行单因素方差分析，若P-value下方报告的p值小于显著性水平α，则拒绝原假设，反之，则不拒绝原假设。"
+    "text": "12.2单因素方差分析在Excel中的实现\n\n图12.3 “方差分析：单因素方差分析”的对话框和输出结果"
   },
   {
     "objectID": "chap12.html#无重复双因素方差分析在excel中的实现",
@@ -2958,14 +2958,14 @@
     "href": "chap12.html#levene检验在excel中的实现-2.-基于中位数",
     "title": "第12章 多个总体参数的检验 ",
     "section": "12.5.2 Levene检验在Excel中的实现– 2. 基于中位数",
-    "text": "12.5.2 Levene检验在Excel中的实现– 2. 基于中位数\n\n图12. 11 计算|x_ij- 〖Median〗_j ||"
+    "text": "12.5.2 Levene检验在Excel中的实现– 2. 基于中位数\n\n图12. 11 计算|x_ij-Median_j|"
   },
   {
     "objectID": "chap12.html#levene检验在excel中的实现",
     "href": "chap12.html#levene检验在excel中的实现",
     "title": "第12章 多个总体参数的检验 ",
     "section": "12.5.2 Levene检验在Excel中的实现",
-    "text": "12.5.2 Levene检验在Excel中的实现\n\n实操技巧\nLevene检验可以对多个总体的方差是否相等进行检验。若数据呈正态分布，可以用基于均值的Levene检验，对|x_ij- x ̅_j |进行单因素方差分析。若数据呈不对称分布，可以用基于中位数的Levene检验，对|x_ij- Median_j |进行单因素方差分析。"
+    "text": "12.5.2 Levene检验在Excel中的实现\n\n实操技巧\nLevene检验可以对多个总体的方差是否相等进行检验。若数据呈正态分布，可以用基于均值的Levene检验，对|x_ij- x ̅_j |进行单因素方差分析。\n若数据呈不对称分布，可以用基于中位数的Levene检验，对|x_ij- Median_j |进行单因素方差分析。"
   },
   {
     "objectID": "chap12.html#本章总结",
@@ -3078,5 +3078,1461 @@
     "title": "第12章 多个总体参数的检验 ",
     "section": "本章总结",
     "text": "本章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap12.html#单因素方差分析在excel中的实现-1",
+    "href": "chap12.html#单因素方差分析在excel中的实现-1",
+    "title": "第12章 多个总体参数的检验 ",
+    "section": "12.2单因素方差分析在Excel中的实现",
+    "text": "12.2单因素方差分析在Excel中的实现\n\n实操技巧\n调用“数据分析”加载项中的“方差分析：单因素方差分析”可以进行单因素方差分析，若P-value下方报告的p值小于显著性水平α，则拒绝原假设，反之，则不拒绝原假设。"
+  },
+  {
+    "objectID": "chap12.html#第12章总结",
+    "href": "chap12.html#第12章总结",
+    "title": "第12章 多个总体参数的检验 ",
+    "section": "第12章总结",
+    "text": "第12章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap13.html#第13章-非参数检验",
+    "href": "chap13.html#第13章-非参数检验",
+    "title": "第13章 非参数检验",
+    "section": "第13章 非参数检验",
+    "text": "第13章 非参数检验\n\n13.1单个总体的非参数检验 13.2多个总体分布的比较"
+  },
+  {
+    "objectID": "chap13.html#单个总体的非参数检验",
+    "href": "chap13.html#单个总体的非参数检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1单个总体的非参数检验",
+    "text": "13.1单个总体的非参数检验\n\n\n13.1.1 中位数检验\n13.1.2 定性数据分布的检验：拟合优度检验\n13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n13.1.4 正态分布检验"
+  },
+  {
+    "objectID": "chap13.html#中位数检验",
+    "href": "chap13.html#中位数检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.1 中位数检验",
+    "text": "13.1.1 中位数检验\n\n符号检验的思想是将观测值与假定的中位数进行比较。\n若中位数等于假定值，那么小于假定值的观测值的个数和大于中位数的观测值的个数应该比较相当；如果这二者相差悬殊，那么真实的中位数应该不等于假定值。"
+  },
+  {
+    "objectID": "chap13.html#中位数检验-1",
+    "href": "chap13.html#中位数检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.1 中位数检验",
+    "text": "13.1.1 中位数检验\n\n图13. 2 符号检验的计算过程"
+  },
+  {
+    "objectID": "chap13.html#定性数据分布的检验拟合优度检验",
+    "href": "chap13.html#定性数据分布的检验拟合优度检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验\n\n拟合优度检验用于检验定性数据是否服从于某种分布\n原假设是“总体服从某种分布”，备择假设是“总体不服从某种分布”。\n在非参数检验中，原假设和备择假设是固定的，不能随意调换。"
+  },
+  {
+    "objectID": "chap13.html#定性数据分布的检验拟合优度检验-1",
+    "href": "chap13.html#定性数据分布的检验拟合优度检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验"
+  },
+  {
+    "objectID": "chap13.html#定性数据分布的检验拟合优度检验-2",
+    "href": "chap13.html#定性数据分布的检验拟合优度检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验\n\n图13. 3 符号检验的计算过程"
+  },
+  {
+    "objectID": "chap13.html#定性数据分布的检验拟合优度检验-3",
+    "href": "chap13.html#定性数据分布的检验拟合优度检验-3",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验\n\n实操技巧\nCHISQ.TEST函数可以实现拟合优度检验，该函数的第1项参数是观测频数，第2项参数是期望频数，返回拟合优度检验的p值。\np值小于显著性水平，则拒绝原假设，认为总体不服从检验的分布。"
+  },
+  {
+    "objectID": "chap13.html#定量数据分布的检验-kolmogorov-smirnov检验",
+    "href": "chap13.html#定量数据分布的检验-kolmogorov-smirnov检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验",
+    "text": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n\nKolmogorov-Smirnov检验的核心思想: 对比数据的经验分布与理论分布的差距。\n若二者差距很小，那么可以认为经验分布与理论分布一致。\n若二者差距很大，就说明经验分布与理论分布不一致。\n经验分布就是样本数据的分布，理论分布就是研究者假定的总体服从的分布。"
+  },
+  {
+    "objectID": "chap13.html#定量数据分布的检验-kolmogorov-smirnov检验-1",
+    "href": "chap13.html#定量数据分布的检验-kolmogorov-smirnov检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验",
+    "text": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n\n图13. 5 运用Kolmogorov-Smirnov检验总体是否服从正态分布的计算步骤"
+  },
+  {
+    "objectID": "chap13.html#定量数据分布的检验-kolmogorov-smirnov检验-2",
+    "href": "chap13.html#定量数据分布的检验-kolmogorov-smirnov检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验",
+    "text": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n\nExcel实操技巧\n将样本数据排序，计算经验累积概率。\n然后利用“DIST”类函数，计算理论分布下的累积概率。\n计算经验累积概率和累积概率之间差距的绝对值最大值，若超过临界值，则拒绝“样本来自理论分布”的原假设。"
+  },
+  {
+    "objectID": "chap13.html#正态分布检验",
+    "href": "chap13.html#正态分布检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验",
+    "text": "13.1.4 正态分布检验\n\nQ-Q图的全称是Quantile-Quantile，是探查数据是否服从某种理论分布的直观的工具。"
+  },
+  {
+    "objectID": "chap13.html#正态分布检验-1",
+    "href": "chap13.html#正态分布检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验",
+    "text": "13.1.4 正态分布检验\n\n图13.8 设置Q-Q图的坐标轴边界和图形大小"
+  },
+  {
+    "objectID": "chap13.html#正态分布检验-jarque-bera检验",
+    "href": "chap13.html#正态分布检验-jarque-bera检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验– Jarque-Bera检验",
+    "text": "13.1.4 正态分布检验– Jarque-Bera检验"
+  },
+  {
+    "objectID": "chap13.html#正态分布检验-jarque-bera检验-1",
+    "href": "chap13.html#正态分布检验-jarque-bera检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验– Jarque-Bera检验",
+    "text": "13.1.4 正态分布检验– Jarque-Bera检验\n\n图13.10 Jarque-Bera检验的计算过程"
+  },
+  {
+    "objectID": "chap13.html#多个总体分布的比较",
+    "href": "chap13.html#多个总体分布的比较",
+    "title": "第13章 非参数检验",
+    "section": "13.2 多个总体分布的比较",
+    "text": "13.2 多个总体分布的比较\n\n\n13.2.1两个独立样本：Mann-Whitney U检验\n13.2.2 两个配对样本：Wilconxon符号秩检验\n13.2.3 多个独立样本：Kruskal-Wallis检验"
+  },
+  {
+    "objectID": "chap13.html#两个独立样本mann-whitney-u检验",
+    "href": "chap13.html#两个独立样本mann-whitney-u检验",
+    "title": "第13章 非参数检验",
+    "section": "13.2.1两个独立样本：Mann-Whitney U检验",
+    "text": "13.2.1两个独立样本：Mann-Whitney U检验\n\nMann-Whitney U检验由Mann和Whitney在1947年提出 ，用于检验两个相互独立的总体的分布是否一致。\n为了纪念Wilcoxon对该方法的贡献，该检验也称作Wilcoxon秩和检验（Wilcoxon Rank Sum Test）。"
+  },
+  {
+    "objectID": "chap13.html#两个独立样本mann-whitney-u检验-1",
+    "href": "chap13.html#两个独立样本mann-whitney-u检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.2.1两个独立样本：Mann-Whitney U检验",
+    "text": "13.2.1两个独立样本：Mann-Whitney U检验\n\n图13. 12 Mann-Whitney U检验的计算过程"
+  },
+  {
+    "objectID": "chap13.html#两个独立样本mann-whitney-u检验-2",
+    "href": "chap13.html#两个独立样本mann-whitney-u检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.2.1两个独立样本：Mann-Whitney U检验",
+    "text": "13.2.1两个独立样本：Mann-Whitney U检验\n\n实操技巧\nRANK.AVG函数可以计算秩，第1项参数是需要排序的观测值，第2项参数是整个序列的数据范围，第3项参数等于1时代表升序排列。注意计算秩时，需要先对序列进行升序排列， RANK.AVG函数的第3项参数的默认值是0，代表降序排列。所以，在求秩时，需要将第3项参数设置为1。\n根据需要，在必要时使用绝对引用$符号，然后拖曳填充柄，实现公式的快速填充。"
+  },
+  {
+    "objectID": "chap13.html#两个配对样本wilconxon符号秩检验",
+    "href": "chap13.html#两个配对样本wilconxon符号秩检验",
+    "title": "第13章 非参数检验",
+    "section": "13.2.2 两个配对样本：Wilconxon符号秩检验",
+    "text": "13.2.2 两个配对样本：Wilconxon符号秩检验\n\n如果两个样本是配对样本，要根据这两个配对样本来推断总体分布是否一致，需要使用Wilcoxon符号秩检验（Wilcoxon Signed-Rank Test）。\nWilcoxon在1945年提出了Wilcoxon符号秩检验 。"
+  },
+  {
+    "objectID": "chap13.html#两个配对样本wilconxon符号秩检验-1",
+    "href": "chap13.html#两个配对样本wilconxon符号秩检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.2.2 两个配对样本：Wilconxon符号秩检验",
+    "text": "13.2.2 两个配对样本：Wilconxon符号秩检验\n\n图13. 14 Wilcoxon符号秩检验的的计算过程"
+  },
+  {
+    "objectID": "chap13.html#两个配对样本wilconxon符号秩检验-2",
+    "href": "chap13.html#两个配对样本wilconxon符号秩检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.2.2 两个配对样本：Wilconxon符号秩检验",
+    "text": "13.2.2 两个配对样本：Wilconxon符号秩检验\n\n实操技巧\nRANK.AVG函数可以计算秩，第1项参数是需要排序的观测值，第2项参数是整个序列的数据范围，第3项参数等于1时代表升序排列，等于0时代表降序排列。\nSUM IF函数可以对满足条件的个案进行求和计算。第1项参数是条件区域D2:D21，第2项参数是条件表达式“&gt;0”，第3项参数是F2:F21需要求和的数值区域。"
+  },
+  {
+    "objectID": "chap13.html#多个独立样本kruskal-wallis检验",
+    "href": "chap13.html#多个独立样本kruskal-wallis检验",
+    "title": "第13章 非参数检验",
+    "section": "13.2.3 多个独立样本：Kruskal-Wallis检验",
+    "text": "13.2.3 多个独立样本：Kruskal-Wallis检验\n\nKruskal和Wallis在1952年提出了Kruskal-Wallis检验，用于判断多个总体的分布是否一致的 。\nKruskal-Wallis检验沿用秩的思想，该方法又称作基于秩的单因素方差分析（One-way ANOVA on Rank）。"
+  },
+  {
+    "objectID": "chap13.html#多个独立样本kruskal-wallis检验-1",
+    "href": "chap13.html#多个独立样本kruskal-wallis检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.2.3 多个独立样本：Kruskal-Wallis检验",
+    "text": "13.2.3 多个独立样本：Kruskal-Wallis检验\n\n图13. 17 Kruskal-Wallis检验的计算过程"
+  },
+  {
+    "objectID": "chap13.html#多个独立样本kruskal-wallis检验-2",
+    "href": "chap13.html#多个独立样本kruskal-wallis检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.2.3 多个独立样本：Kruskal-Wallis检验",
+    "text": "13.2.3 多个独立样本：Kruskal-Wallis检验\n\n实操技巧\nRANK.AVG函数可以计算秩，第1项参数是需要排序的观测值，第2项参数是整个序列的数据范围，第3项参数等于1时代表升序排列，等于0时代表降序排列。\nDEVSQ函数可以求所有观测值与均值的离差的平方和。"
+  },
+  {
+    "objectID": "chap13.html#第13章总结",
+    "href": "chap13.html#第13章总结",
+    "title": "第13章 非参数检验",
+    "section": "第13章总结",
+    "text": "第13章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap13.html#中位数检验-2",
+    "href": "chap13.html#中位数检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.1 中位数检验",
+    "text": "13.1.1 中位数检验\n\nExcel实操技巧\nSIGN函数返回单元格数值的符号，当数值大于0时，返回1；当数值等于0时，返回0；当数值小于0时，返回-1。\nCOUNTIF函数返回满足条件的单元格的个数。\nBINOM.DIST函数计算二项分布的累积概率，第1项参数代表试验成功的次数，第2项参数代表试验的总次数，第3项参数代表试验成功的概率，第4项参数“TRUE”代表返回累积概率。"
+  },
+  {
+    "objectID": "chap13.html#正态分布检验-jarque-bera检验-2",
+    "href": "chap13.html#正态分布检验-jarque-bera检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验– Jarque-Bera检验",
+    "text": "13.1.4 正态分布检验– Jarque-Bera检验\n\n实操技巧\n将样本观测值按升序排列，利用PERCENTRANK.EXC函数计算观测值的排位，再根据排位计算在理论分布上对应的分位数。\n绘制样本分位数和理论分布的分位数的散点图，若散点分布在一条倾角为45的的直线上，则说明样本数据服从理论分布。\n首先计算样本数据的偏度和峰度，然后计算Jarque-Bera检验统计量的值，若JB值大于χ_0.05^2 (2)=5.991，则拒绝“数据服从正态分布”的原假设。"
+  },
+  {
+    "objectID": "chap13_slide.html#第13章-非参数检验",
+    "href": "chap13_slide.html#第13章-非参数检验",
+    "title": "第13章 非参数检验",
+    "section": "第13章 非参数检验",
+    "text": "第13章 非参数检验\n\n13.1单个总体的非参数检验 13.2多个总体分布的比较"
+  },
+  {
+    "objectID": "chap13_slide.html#单个总体的非参数检验",
+    "href": "chap13_slide.html#单个总体的非参数检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1单个总体的非参数检验",
+    "text": "13.1单个总体的非参数检验\n\n\n13.1.1 中位数检验\n13.1.2 定性数据分布的检验：拟合优度检验\n13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n13.1.4 正态分布检验"
+  },
+  {
+    "objectID": "chap13_slide.html#中位数检验",
+    "href": "chap13_slide.html#中位数检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.1 中位数检验",
+    "text": "13.1.1 中位数检验\n\n符号检验的思想是将观测值与假定的中位数进行比较。\n若中位数等于假定值，那么小于假定值的观测值的个数和大于中位数的观测值的个数应该比较相当；如果这二者相差悬殊，那么真实的中位数应该不等于假定值。"
+  },
+  {
+    "objectID": "chap13_slide.html#中位数检验-1",
+    "href": "chap13_slide.html#中位数检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.1 中位数检验",
+    "text": "13.1.1 中位数检验\n\n图13. 2 符号检验的计算过程"
+  },
+  {
+    "objectID": "chap13_slide.html#中位数检验-2",
+    "href": "chap13_slide.html#中位数检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.1 中位数检验",
+    "text": "13.1.1 中位数检验\n\nExcel实操技巧\nSIGN函数返回单元格数值的符号，当数值大于0时，返回1；当数值等于0时，返回0；当数值小于0时，返回-1。\nCOUNTIF函数返回满足条件的单元格的个数。\nBINOM.DIST函数计算二项分布的累积概率，第1项参数代表试验成功的次数，第2项参数代表试验的总次数，第3项参数代表试验成功的概率，第4项参数“TRUE”代表返回累积概率。"
+  },
+  {
+    "objectID": "chap13_slide.html#定性数据分布的检验拟合优度检验",
+    "href": "chap13_slide.html#定性数据分布的检验拟合优度检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验\n\n拟合优度检验用于检验定性数据是否服从于某种分布\n原假设是“总体服从某种分布”，备择假设是“总体不服从某种分布”。\n在非参数检验中，原假设和备择假设是固定的，不能随意调换。"
+  },
+  {
+    "objectID": "chap13_slide.html#定性数据分布的检验拟合优度检验-1",
+    "href": "chap13_slide.html#定性数据分布的检验拟合优度检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验"
+  },
+  {
+    "objectID": "chap13_slide.html#定性数据分布的检验拟合优度检验-2",
+    "href": "chap13_slide.html#定性数据分布的检验拟合优度检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验\n\n图13. 3 符号检验的计算过程"
+  },
+  {
+    "objectID": "chap13_slide.html#定性数据分布的检验拟合优度检验-3",
+    "href": "chap13_slide.html#定性数据分布的检验拟合优度检验-3",
+    "title": "第13章 非参数检验",
+    "section": "13.1.2 定性数据分布的检验：拟合优度检验",
+    "text": "13.1.2 定性数据分布的检验：拟合优度检验\n\n实操技巧\nCHISQ.TEST函数可以实现拟合优度检验，该函数的第1项参数是观测频数，第2项参数是期望频数，返回拟合优度检验的p值。\np值小于显著性水平，则拒绝原假设，认为总体不服从检验的分布。"
+  },
+  {
+    "objectID": "chap13_slide.html#定量数据分布的检验-kolmogorov-smirnov检验",
+    "href": "chap13_slide.html#定量数据分布的检验-kolmogorov-smirnov检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验",
+    "text": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n\nKolmogorov-Smirnov检验的核心思想: 对比数据的经验分布与理论分布的差距。\n若二者差距很小，那么可以认为经验分布与理论分布一致。\n若二者差距很大，就说明经验分布与理论分布不一致。\n经验分布就是样本数据的分布，理论分布就是研究者假定的总体服从的分布。"
+  },
+  {
+    "objectID": "chap13_slide.html#定量数据分布的检验-kolmogorov-smirnov检验-1",
+    "href": "chap13_slide.html#定量数据分布的检验-kolmogorov-smirnov检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验",
+    "text": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n\n图13. 5 运用Kolmogorov-Smirnov检验总体是否服从正态分布的计算步骤"
+  },
+  {
+    "objectID": "chap13_slide.html#定量数据分布的检验-kolmogorov-smirnov检验-2",
+    "href": "chap13_slide.html#定量数据分布的检验-kolmogorov-smirnov检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验",
+    "text": "13.1.3 定量数据分布的检验： Kolmogorov-Smirnov检验\n\nExcel实操技巧\n将样本数据排序，计算经验累积概率。\n然后利用“DIST”类函数，计算理论分布下的累积概率。\n计算经验累积概率和累积概率之间差距的绝对值最大值，若超过临界值，则拒绝“样本来自理论分布”的原假设。"
+  },
+  {
+    "objectID": "chap13_slide.html#正态分布检验",
+    "href": "chap13_slide.html#正态分布检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验",
+    "text": "13.1.4 正态分布检验\n\nQ-Q图的全称是Quantile-Quantile，是探查数据是否服从某种理论分布的直观的工具。"
+  },
+  {
+    "objectID": "chap13_slide.html#正态分布检验-1",
+    "href": "chap13_slide.html#正态分布检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验",
+    "text": "13.1.4 正态分布检验\n\n图13.8 设置Q-Q图的坐标轴边界和图形大小"
+  },
+  {
+    "objectID": "chap13_slide.html#正态分布检验-jarque-bera检验",
+    "href": "chap13_slide.html#正态分布检验-jarque-bera检验",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验– Jarque-Bera检验",
+    "text": "13.1.4 正态分布检验– Jarque-Bera检验"
+  },
+  {
+    "objectID": "chap13_slide.html#正态分布检验-jarque-bera检验-1",
+    "href": "chap13_slide.html#正态分布检验-jarque-bera检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验– Jarque-Bera检验",
+    "text": "13.1.4 正态分布检验– Jarque-Bera检验\n\n图13.10 Jarque-Bera检验的计算过程"
+  },
+  {
+    "objectID": "chap13_slide.html#正态分布检验-jarque-bera检验-2",
+    "href": "chap13_slide.html#正态分布检验-jarque-bera检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.1.4 正态分布检验– Jarque-Bera检验",
+    "text": "13.1.4 正态分布检验– Jarque-Bera检验\n\n实操技巧\n将样本观测值按升序排列，利用PERCENTRANK.EXC函数计算观测值的排位，再根据排位计算在理论分布上对应的分位数。\n绘制样本分位数和理论分布的分位数的散点图，若散点分布在一条倾角为45的的直线上，则说明样本数据服从理论分布。\n首先计算样本数据的偏度和峰度，然后计算Jarque-Bera检验统计量的值，若JB值大于χ_0.05^2 (2)=5.991，则拒绝“数据服从正态分布”的原假设。"
+  },
+  {
+    "objectID": "chap13_slide.html#多个总体分布的比较",
+    "href": "chap13_slide.html#多个总体分布的比较",
+    "title": "第13章 非参数检验",
+    "section": "13.2 多个总体分布的比较",
+    "text": "13.2 多个总体分布的比较\n\n\n13.2.1两个独立样本：Mann-Whitney U检验\n13.2.2 两个配对样本：Wilconxon符号秩检验\n13.2.3 多个独立样本：Kruskal-Wallis检验"
+  },
+  {
+    "objectID": "chap13_slide.html#两个独立样本mann-whitney-u检验",
+    "href": "chap13_slide.html#两个独立样本mann-whitney-u检验",
+    "title": "第13章 非参数检验",
+    "section": "13.2.1两个独立样本：Mann-Whitney U检验",
+    "text": "13.2.1两个独立样本：Mann-Whitney U检验\n\nMann-Whitney U检验由Mann和Whitney在1947年提出 ，用于检验两个相互独立的总体的分布是否一致。\n为了纪念Wilcoxon对该方法的贡献，该检验也称作Wilcoxon秩和检验（Wilcoxon Rank Sum Test）。"
+  },
+  {
+    "objectID": "chap13_slide.html#两个独立样本mann-whitney-u检验-1",
+    "href": "chap13_slide.html#两个独立样本mann-whitney-u检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.2.1两个独立样本：Mann-Whitney U检验",
+    "text": "13.2.1两个独立样本：Mann-Whitney U检验\n\n图13. 12 Mann-Whitney U检验的计算过程"
+  },
+  {
+    "objectID": "chap13_slide.html#两个独立样本mann-whitney-u检验-2",
+    "href": "chap13_slide.html#两个独立样本mann-whitney-u检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.2.1两个独立样本：Mann-Whitney U检验",
+    "text": "13.2.1两个独立样本：Mann-Whitney U检验\n\n实操技巧\nRANK.AVG函数可以计算秩，第1项参数是需要排序的观测值，第2项参数是整个序列的数据范围，第3项参数等于1时代表升序排列。注意计算秩时，需要先对序列进行升序排列， RANK.AVG函数的第3项参数的默认值是0，代表降序排列。所以，在求秩时，需要将第3项参数设置为1。\n根据需要，在必要时使用绝对引用$符号，然后拖曳填充柄，实现公式的快速填充。"
+  },
+  {
+    "objectID": "chap13_slide.html#两个配对样本wilconxon符号秩检验",
+    "href": "chap13_slide.html#两个配对样本wilconxon符号秩检验",
+    "title": "第13章 非参数检验",
+    "section": "13.2.2 两个配对样本：Wilconxon符号秩检验",
+    "text": "13.2.2 两个配对样本：Wilconxon符号秩检验\n\n如果两个样本是配对样本，要根据这两个配对样本来推断总体分布是否一致，需要使用Wilcoxon符号秩检验（Wilcoxon Signed-Rank Test）。\nWilcoxon在1945年提出了Wilcoxon符号秩检验 。"
+  },
+  {
+    "objectID": "chap13_slide.html#两个配对样本wilconxon符号秩检验-1",
+    "href": "chap13_slide.html#两个配对样本wilconxon符号秩检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.2.2 两个配对样本：Wilconxon符号秩检验",
+    "text": "13.2.2 两个配对样本：Wilconxon符号秩检验\n\n图13. 14 Wilcoxon符号秩检验的的计算过程"
+  },
+  {
+    "objectID": "chap13_slide.html#两个配对样本wilconxon符号秩检验-2",
+    "href": "chap13_slide.html#两个配对样本wilconxon符号秩检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.2.2 两个配对样本：Wilconxon符号秩检验",
+    "text": "13.2.2 两个配对样本：Wilconxon符号秩检验\n\n实操技巧\nRANK.AVG函数可以计算秩，第1项参数是需要排序的观测值，第2项参数是整个序列的数据范围，第3项参数等于1时代表升序排列，等于0时代表降序排列。\nSUM IF函数可以对满足条件的个案进行求和计算。第1项参数是条件区域D2:D21，第2项参数是条件表达式“&gt;0”，第3项参数是F2:F21需要求和的数值区域。"
+  },
+  {
+    "objectID": "chap13_slide.html#多个独立样本kruskal-wallis检验",
+    "href": "chap13_slide.html#多个独立样本kruskal-wallis检验",
+    "title": "第13章 非参数检验",
+    "section": "13.2.3 多个独立样本：Kruskal-Wallis检验",
+    "text": "13.2.3 多个独立样本：Kruskal-Wallis检验\n\nKruskal和Wallis在1952年提出了Kruskal-Wallis检验，用于判断多个总体的分布是否一致的 。\nKruskal-Wallis检验沿用秩的思想，该方法又称作基于秩的单因素方差分析（One-way ANOVA on Rank）。"
+  },
+  {
+    "objectID": "chap13_slide.html#多个独立样本kruskal-wallis检验-1",
+    "href": "chap13_slide.html#多个独立样本kruskal-wallis检验-1",
+    "title": "第13章 非参数检验",
+    "section": "13.2.3 多个独立样本：Kruskal-Wallis检验",
+    "text": "13.2.3 多个独立样本：Kruskal-Wallis检验\n\n图13. 17 Kruskal-Wallis检验的计算过程"
+  },
+  {
+    "objectID": "chap13_slide.html#多个独立样本kruskal-wallis检验-2",
+    "href": "chap13_slide.html#多个独立样本kruskal-wallis检验-2",
+    "title": "第13章 非参数检验",
+    "section": "13.2.3 多个独立样本：Kruskal-Wallis检验",
+    "text": "13.2.3 多个独立样本：Kruskal-Wallis检验\n\n实操技巧\nRANK.AVG函数可以计算秩，第1项参数是需要排序的观测值，第2项参数是整个序列的数据范围，第3项参数等于1时代表升序排列，等于0时代表降序排列。\nDEVSQ函数可以求所有观测值与均值的离差的平方和。"
+  },
+  {
+    "objectID": "chap13_slide.html#第13章总结",
+    "href": "chap13_slide.html#第13章总结",
+    "title": "第13章 非参数检验",
+    "section": "第13章总结",
+    "text": "第13章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap14.html#第14章-相关分析",
+    "href": "chap14.html#第14章-相关分析",
+    "title": "第14章 相关分析",
+    "section": "第14章 相关分析",
+    "text": "第14章 相关分析\n\n\n14.1两个定性变量的关系\n14.2两个定量变量的关系"
+  },
+  {
+    "objectID": "chap14.html#两个定性变量的关系",
+    "href": "chap14.html#两个定性变量的关系",
+    "title": "第14章 相关分析",
+    "section": "14.1 两个定性变量的关系",
+    "text": "14.1 两个定性变量的关系\n\n\n14.1.1 独立性检验\n14.1.2 Cramer’s V系数\n14.1.3 Kendall’s W系数"
+  },
+  {
+    "objectID": "chap14.html#独立性检验",
+    "href": "chap14.html#独立性检验",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验\n\n在独立性检验中，首先，在两个变量相互独立的假定下计算期望频数。\n然后将观测频数与期望频数对比.\n若二者差距较小，则说明两个变量相互独立；若二者差距很大，则说明两个变量不独立。"
+  },
+  {
+    "objectID": "chap14.html#独立性检验-1",
+    "href": "chap14.html#独立性检验-1",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验"
+  },
+  {
+    "objectID": "chap14.html#独立性检验-2",
+    "href": "chap14.html#独立性检验-2",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验\n\n图14.1 独立性检验的计算过程"
+  },
+  {
+    "objectID": "chap14.html#cramers-v系数",
+    "href": "chap14.html#cramers-v系数",
+    "title": "第14章 相关分析",
+    "section": "14.1.2 Cramer’s V系数",
+    "text": "14.1.2 Cramer’s V系数"
+  },
+  {
+    "objectID": "chap14.html#cramers-v系数-1",
+    "href": "chap14.html#cramers-v系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.1.2 Cramer’s V系数",
+    "text": "14.1.2 Cramer’s V系数\n\n图14.3 Cramer’s V系数的计算过程"
+  },
+  {
+    "objectID": "chap14.html#kendalls-w系数",
+    "href": "chap14.html#kendalls-w系数",
+    "title": "第14章 相关分析",
+    "section": "14.1.3 Kendall’s W系数",
+    "text": "14.1.3 Kendall’s W系数\n\nKendall’s W 系数又称作Kdendall一致系数（ Kendall’s Coefficient of Concordance），是一个非参数统计量，用于评估不同个体的主观态度或者评价是否一致。\nKendall’s W系数的值介于0到1之间，等于0时代表态度完全不一致，等于0代表态度完全一致。"
+  },
+  {
+    "objectID": "chap14.html#kendalls-w系数-1",
+    "href": "chap14.html#kendalls-w系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.1.3 Kendall’s W系数",
+    "text": "14.1.3 Kendall’s W系数\n\n图14.4 Kendall’s W 系数的计算过程"
+  },
+  {
+    "objectID": "chap14.html#kendalls-w系数-2",
+    "href": "chap14.html#kendalls-w系数-2",
+    "title": "第14章 相关分析",
+    "section": "14.1.3 Kendall’s W系数",
+    "text": "14.1.3 Kendall’s W系数\n\n实操技巧\nDEVSQ函数可以计算每个观测值与均值的离差平方和。\n对Kendall’s W 系数进行显著性检验时，利用CHISQ.DIST.RT函数可以计算p值。若p值小于显著性水平，则拒绝“不同个体的主观评价是一致的”的原假设。"
+  },
+  {
+    "objectID": "chap14.html#两个定量变量的关系",
+    "href": "chap14.html#两个定量变量的关系",
+    "title": "第14章 相关分析",
+    "section": "14.2两个定量变量的关系",
+    "text": "14.2两个定量变量的关系\n\n\n14.2.1 协方差\n14.2.2 皮尔逊相关系数\n14.2.3 斯皮尔曼秩相关系数"
+  },
+  {
+    "objectID": "chap14.html#协方差",
+    "href": "chap14.html#协方差",
+    "title": "第14章 相关分析",
+    "section": "14.2.1 协方差",
+    "text": "14.2.1 协方差"
+  },
+  {
+    "objectID": "chap14.html#协方差-1",
+    "href": "chap14.html#协方差-1",
+    "title": "第14章 相关分析",
+    "section": "14.2.1 协方差",
+    "text": "14.2.1 协方差\n\n图14.7 协方差的符号的含义"
+  },
+  {
+    "objectID": "chap14.html#皮尔逊相关系数",
+    "href": "chap14.html#皮尔逊相关系数",
+    "title": "第14章 相关分析",
+    "section": "14.2.2 皮尔逊相关系数",
+    "text": "14.2.2 皮尔逊相关系数\n\n皮尔逊相关系数（Pearson Correlation Coefficient）也称作皮尔逊积矩相关系数（Pearson Product-moment Coefficient）\n可以测度两个连续型定量变量之间的线性相关关系。"
+  },
+  {
+    "objectID": "chap14.html#皮尔逊相关系数-1",
+    "href": "chap14.html#皮尔逊相关系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.2.2 皮尔逊相关系数",
+    "text": "14.2.2 皮尔逊相关系数"
+  },
+  {
+    "objectID": "chap14.html#皮尔逊相关系数-2",
+    "href": "chap14.html#皮尔逊相关系数-2",
+    "title": "第14章 相关分析",
+    "section": "14.2.2 皮尔逊相关系数",
+    "text": "14.2.2 皮尔逊相关系数\n\n实操技巧\nCORREL函数和PEARSON函数计算皮尔逊相关系数，第1项参数和第2项参数分别是两组数据区域，中间用逗号分隔。\n单击“数据” →“数据分析” →“相关系数”，可以报告相关系数矩阵，矩阵对角线上的元素是1，非对角线上的元素是总体协方差。"
+  },
+  {
+    "objectID": "chap14.html#斯皮尔曼秩相关系数",
+    "href": "chap14.html#斯皮尔曼秩相关系数",
+    "title": "第14章 相关分析",
+    "section": "14.2.3 斯皮尔曼秩相关系数",
+    "text": "14.2.3 斯皮尔曼秩相关系数"
+  },
+  {
+    "objectID": "chap14.html#斯皮尔曼秩相关系数-1",
+    "href": "chap14.html#斯皮尔曼秩相关系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.2.3 斯皮尔曼秩相关系数",
+    "text": "14.2.3 斯皮尔曼秩相关系数\n\n图14.13 斯皮尔曼秩相关系数的计算和检验"
+  },
+  {
+    "objectID": "chap14.html#斯皮尔曼秩相关系数-2",
+    "href": "chap14.html#斯皮尔曼秩相关系数-2",
+    "title": "第14章 相关分析",
+    "section": "14.2.3 斯皮尔曼秩相关系数",
+    "text": "14.2.3 斯皮尔曼秩相关系数\n\n实操技巧\nRANK.AVG函数可以计算观测值的秩。"
+  },
+  {
+    "objectID": "chap14.html#第14章总结",
+    "href": "chap14.html#第14章总结",
+    "title": "第14章 相关分析",
+    "section": "第14章总结",
+    "text": "第14章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap14.html#独立性检验-3",
+    "href": "chap14.html#独立性检验-3",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验\n\n实操技巧\n计算期望频数时只需录入左上角单元格的公式，恰当使用绝对引用符号$，然后拖曳单元格填充柄，实现自动计算。\nCHISQ.TEST函数可以计算独立性检验的p值，第1项参数是观测频数，第2项参数是期望频数。\n若p值小于显著性水平∝，则拒绝“行变量和列变量相互独立”的原假设。"
+  },
+  {
+    "objectID": "chap14_slide.html#第14章-相关分析",
+    "href": "chap14_slide.html#第14章-相关分析",
+    "title": "第14章 相关分析",
+    "section": "第14章 相关分析",
+    "text": "第14章 相关分析\n\n\n14.1两个定性变量的关系\n14.2两个定量变量的关系"
+  },
+  {
+    "objectID": "chap14_slide.html#两个定性变量的关系",
+    "href": "chap14_slide.html#两个定性变量的关系",
+    "title": "第14章 相关分析",
+    "section": "14.1 两个定性变量的关系",
+    "text": "14.1 两个定性变量的关系\n\n\n14.1.1 独立性检验\n14.1.2 Cramer’s V系数\n14.1.3 Kendall’s W系数"
+  },
+  {
+    "objectID": "chap14_slide.html#独立性检验",
+    "href": "chap14_slide.html#独立性检验",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验\n\n在独立性检验中，首先，在两个变量相互独立的假定下计算期望频数。\n然后将观测频数与期望频数对比.\n若二者差距较小，则说明两个变量相互独立；若二者差距很大，则说明两个变量不独立。"
+  },
+  {
+    "objectID": "chap14_slide.html#独立性检验-1",
+    "href": "chap14_slide.html#独立性检验-1",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验"
+  },
+  {
+    "objectID": "chap14_slide.html#独立性检验-2",
+    "href": "chap14_slide.html#独立性检验-2",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验\n\n图14.1 独立性检验的计算过程"
+  },
+  {
+    "objectID": "chap14_slide.html#独立性检验-3",
+    "href": "chap14_slide.html#独立性检验-3",
+    "title": "第14章 相关分析",
+    "section": "14.1.1 独立性检验",
+    "text": "14.1.1 独立性检验\n\n实操技巧\n计算期望频数时只需录入左上角单元格的公式，恰当使用绝对引用符号$，然后拖曳单元格填充柄，实现自动计算。\nCHISQ.TEST函数可以计算独立性检验的p值，第1项参数是观测频数，第2项参数是期望频数。\n若p值小于显著性水平∝，则拒绝“行变量和列变量相互独立”的原假设。"
+  },
+  {
+    "objectID": "chap14_slide.html#cramers-v系数",
+    "href": "chap14_slide.html#cramers-v系数",
+    "title": "第14章 相关分析",
+    "section": "14.1.2 Cramer’s V系数",
+    "text": "14.1.2 Cramer’s V系数"
+  },
+  {
+    "objectID": "chap14_slide.html#cramers-v系数-1",
+    "href": "chap14_slide.html#cramers-v系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.1.2 Cramer’s V系数",
+    "text": "14.1.2 Cramer’s V系数\n\n图14.3 Cramer’s V系数的计算过程"
+  },
+  {
+    "objectID": "chap14_slide.html#kendalls-w系数",
+    "href": "chap14_slide.html#kendalls-w系数",
+    "title": "第14章 相关分析",
+    "section": "14.1.3 Kendall’s W系数",
+    "text": "14.1.3 Kendall’s W系数\n\nKendall’s W 系数又称作Kdendall一致系数（ Kendall’s Coefficient of Concordance），是一个非参数统计量，用于评估不同个体的主观态度或者评价是否一致。\nKendall’s W系数的值介于0到1之间，等于0时代表态度完全不一致，等于0代表态度完全一致。"
+  },
+  {
+    "objectID": "chap14_slide.html#kendalls-w系数-1",
+    "href": "chap14_slide.html#kendalls-w系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.1.3 Kendall’s W系数",
+    "text": "14.1.3 Kendall’s W系数\n\n图14.4 Kendall’s W 系数的计算过程"
+  },
+  {
+    "objectID": "chap14_slide.html#kendalls-w系数-2",
+    "href": "chap14_slide.html#kendalls-w系数-2",
+    "title": "第14章 相关分析",
+    "section": "14.1.3 Kendall’s W系数",
+    "text": "14.1.3 Kendall’s W系数\n\n实操技巧\nDEVSQ函数可以计算每个观测值与均值的离差平方和。\n对Kendall’s W 系数进行显著性检验时，利用CHISQ.DIST.RT函数可以计算p值。若p值小于显著性水平，则拒绝“不同个体的主观评价是一致的”的原假设。"
+  },
+  {
+    "objectID": "chap14_slide.html#两个定量变量的关系",
+    "href": "chap14_slide.html#两个定量变量的关系",
+    "title": "第14章 相关分析",
+    "section": "14.2两个定量变量的关系",
+    "text": "14.2两个定量变量的关系\n\n\n14.2.1 协方差\n14.2.2 皮尔逊相关系数\n14.2.3 斯皮尔曼秩相关系数"
+  },
+  {
+    "objectID": "chap14_slide.html#协方差",
+    "href": "chap14_slide.html#协方差",
+    "title": "第14章 相关分析",
+    "section": "14.2.1 协方差",
+    "text": "14.2.1 协方差"
+  },
+  {
+    "objectID": "chap14_slide.html#协方差-1",
+    "href": "chap14_slide.html#协方差-1",
+    "title": "第14章 相关分析",
+    "section": "14.2.1 协方差",
+    "text": "14.2.1 协方差\n\n图14.7 协方差的符号的含义"
+  },
+  {
+    "objectID": "chap14_slide.html#皮尔逊相关系数",
+    "href": "chap14_slide.html#皮尔逊相关系数",
+    "title": "第14章 相关分析",
+    "section": "14.2.2 皮尔逊相关系数",
+    "text": "14.2.2 皮尔逊相关系数\n\n皮尔逊相关系数（Pearson Correlation Coefficient）也称作皮尔逊积矩相关系数（Pearson Product-moment Coefficient）\n可以测度两个连续型定量变量之间的线性相关关系。"
+  },
+  {
+    "objectID": "chap14_slide.html#皮尔逊相关系数-1",
+    "href": "chap14_slide.html#皮尔逊相关系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.2.2 皮尔逊相关系数",
+    "text": "14.2.2 皮尔逊相关系数"
+  },
+  {
+    "objectID": "chap14_slide.html#皮尔逊相关系数-2",
+    "href": "chap14_slide.html#皮尔逊相关系数-2",
+    "title": "第14章 相关分析",
+    "section": "14.2.2 皮尔逊相关系数",
+    "text": "14.2.2 皮尔逊相关系数\n\n实操技巧\nCORREL函数和PEARSON函数计算皮尔逊相关系数，第1项参数和第2项参数分别是两组数据区域，中间用逗号分隔。\n单击“数据” →“数据分析” →“相关系数”，可以报告相关系数矩阵，矩阵对角线上的元素是1，非对角线上的元素是总体协方差。"
+  },
+  {
+    "objectID": "chap14_slide.html#斯皮尔曼秩相关系数",
+    "href": "chap14_slide.html#斯皮尔曼秩相关系数",
+    "title": "第14章 相关分析",
+    "section": "14.2.3 斯皮尔曼秩相关系数",
+    "text": "14.2.3 斯皮尔曼秩相关系数"
+  },
+  {
+    "objectID": "chap14_slide.html#斯皮尔曼秩相关系数-1",
+    "href": "chap14_slide.html#斯皮尔曼秩相关系数-1",
+    "title": "第14章 相关分析",
+    "section": "14.2.3 斯皮尔曼秩相关系数",
+    "text": "14.2.3 斯皮尔曼秩相关系数\n\n图14.13 斯皮尔曼秩相关系数的计算和检验"
+  },
+  {
+    "objectID": "chap14_slide.html#斯皮尔曼秩相关系数-2",
+    "href": "chap14_slide.html#斯皮尔曼秩相关系数-2",
+    "title": "第14章 相关分析",
+    "section": "14.2.3 斯皮尔曼秩相关系数",
+    "text": "14.2.3 斯皮尔曼秩相关系数\n\n实操技巧\nRANK.AVG函数可以计算观测值的秩。"
+  },
+  {
+    "objectID": "chap14_slide.html#第14章总结",
+    "href": "chap14_slide.html#第14章总结",
+    "title": "第14章 相关分析",
+    "section": "第14章总结",
+    "text": "第14章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap15.html#建立回归模型",
+    "href": "chap15.html#建立回归模型",
+    "title": "第15章 回归分析",
+    "section": "15.1.1 建立回归模型",
+    "text": "15.1.1 建立回归模型"
+  },
+  {
+    "objectID": "chap15.html#估计模型参数",
+    "href": "chap15.html#估计模型参数",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数\n\n图15.2 在散添图中添加回归线"
+  },
+  {
+    "objectID": "chap15.html#估计模型参数-1",
+    "href": "chap15.html#估计模型参数-1",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数\n\n图15.3 普通最小二乘法示意图"
+  },
+  {
+    "objectID": "chap15.html#估计模型参数-2",
+    "href": "chap15.html#估计模型参数-2",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数\n\n图15.3 普通最小二乘法示意图"
+  },
+  {
+    "objectID": "chap15.html#检验模型参数",
+    "href": "chap15.html#检验模型参数",
+    "title": "第15章 回归分析",
+    "section": "15.1.3 检验模型参数",
+    "text": "15.1.3 检验模型参数"
+  },
+  {
+    "objectID": "chap15.html#评估模型效果",
+    "href": "chap15.html#评估模型效果",
+    "title": "第15章 回归分析",
+    "section": "15.1.4 评估模型效果",
+    "text": "15.1.4 评估模型效果\n\n判定系数代表在被解释变量的变异中有多大比例可以被回归方程解释。\n判定系数的值介于0到1之间，R^2的值越高，代表模型的拟合效果越好。"
+  },
+  {
+    "objectID": "chap15.html#提炼研究结论",
+    "href": "chap15.html#提炼研究结论",
+    "title": "第15章 回归分析",
+    "section": "15.1.5 提炼研究结论",
+    "text": "15.1.5 提炼研究结论\n\n提炼研究结论\n总结解释变量对被解释变量的影响效应\n评估模型的拟合效果"
+  },
+  {
+    "objectID": "chap15.html#散点图中添加趋势线",
+    "href": "chap15.html#散点图中添加趋势线",
+    "title": "第15章 回归分析",
+    "section": "15.2.1 散点图中添加趋势线",
+    "text": "15.2.1 散点图中添加趋势线\n\n图15. 6 在散点图中添加趋势线及设置趋势线格式"
+  },
+  {
+    "objectID": "chap15.html#函数工具",
+    "href": "chap15.html#函数工具",
+    "title": "第15章 回归分析",
+    "section": "15.2.2 函数工具",
+    "text": "15.2.2 函数工具\n\nINTERCEPT函数\nSLOPE函数\nRSQ函数\nSTEYX函数"
+  },
+  {
+    "objectID": "chap15.html#函数工具-1",
+    "href": "chap15.html#函数工具-1",
+    "title": "第15章 回归分析",
+    "section": "15.2.2 函数工具",
+    "text": "15.2.2 函数工具\n\n实操技巧\nINTERCEPT函数、SLOPE函数、RSQ函数和STEYX函数可以分别计算一元回归模型的截距、斜率、判定系数和回归标准误。LINEST函数可以报告回归方程的详细输出结果。\n上述函数的相同之处是：第1项参数是被解释变量的数据区域，第2项参数是解释变量的数据区域。\nFORECAST.LINEAR函数和TREND函数可以对给定的解释变量的值，对被解释变量进行预测。\n给数据区域定义名称，可以提高公式录入效率。"
+  },
+  {
+    "objectID": "chap15.html#数据分析回归工具",
+    "href": "chap15.html#数据分析回归工具",
+    "title": "第15章 回归分析",
+    "section": "15.2.3 数据分析/回归工具",
+    "text": "15.2.3 数据分析/回归工具\n\n图15.14 数据分析/回归对话框"
+  },
+  {
+    "objectID": "chap15.html#多元回归方程的估计和检验",
+    "href": "chap15.html#多元回归方程的估计和检验",
+    "title": "第15章 回归分析",
+    "section": "15.3.1 多元回归方程的估计和检验",
+    "text": "15.3.1 多元回归方程的估计和检验\n ## 15.3.1 多元回归方程的估计和检验\n::: incremental\n\n参数的估计\n单个参数的t检验\n多个参数的F检验\n校正的判定系数 :::"
+  },
+  {
+    "objectID": "chap15.html#多元回归分析在excel中的实现",
+    "href": "chap15.html#多元回归分析在excel中的实现",
+    "title": "第15章 回归分析",
+    "section": "15.3.2 多元回归分析在Excel中的实现",
+    "text": "15.3.2 多元回归分析在Excel中的实现\n\n图15.18 多元回归方程的LINEST函数的详细输出结果"
+  },
+  {
+    "objectID": "chap15.html#多元回归分析在excel中的实现-1",
+    "href": "chap15.html#多元回归分析在excel中的实现-1",
+    "title": "第15章 回归分析",
+    "section": "15.3.2 多元回归分析在Excel中的实现",
+    "text": "15.3.2 多元回归分析在Excel中的实现\n\n实操技巧\n数组函数LINEST可以报告多元回归模型的详细输出结果，第1项参数是被解释变量的数据区域，第2项参数是解释变量的数据区域。\nTREND函数可以计算多元回归模型的预测值。对给定的解释变量的值，对被解释变量进行预测，第1项和第2项参数分别是被解释变量和解释变量的数据区域，第3项参数是给定的解释变量的值的区域。"
+  },
+  {
+    "objectID": "chap15.html#第15章总结",
+    "href": "chap15.html#第15章总结",
+    "title": "第15章 回归分析",
+    "section": "第15章总结",
+    "text": "第15章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap15.html#第15章-回归分析",
+    "href": "chap15.html#第15章-回归分析",
+    "title": "第15章 回归分析",
+    "section": "第15章 回归分析",
+    "text": "第15章 回归分析\n\n\n15.1回归分析的工作流程\n15.2 一元回归分析\n15.3多元回归分析"
+  },
+  {
+    "objectID": "chap15.html#回归分析的工作流程",
+    "href": "chap15.html#回归分析的工作流程",
+    "title": "第15章 回归分析",
+    "section": "15.1回归分析的工作流程",
+    "text": "15.1回归分析的工作流程\n\n\n15.1.1 建立回归模型\n15.1.2 估计模型参数\n15.1.3 检验模型参数\n15.1.4 评估模型效果\n15.1.5 提炼研究结论"
+  },
+  {
+    "objectID": "chap15.html#回归分析的工作流程-1",
+    "href": "chap15.html#回归分析的工作流程-1",
+    "title": "第15章 回归分析",
+    "section": "15.1回归分析的工作流程",
+    "text": "15.1回归分析的工作流程\n\n图15.1 回归分析的工作流程"
+  },
+  {
+    "objectID": "chap15.html#一元回归分析",
+    "href": "chap15.html#一元回归分析",
+    "title": "第15章 回归分析",
+    "section": "15.2 一元回归分析",
+    "text": "15.2 一元回归分析\n\n\n15.2.1 散点图中添加趋势线\n15.2.2 函数工具\n15.2.3 数据分析/回归工具"
+  },
+  {
+    "objectID": "chap15.html#多元回归分析",
+    "href": "chap15.html#多元回归分析",
+    "title": "第15章 回归分析",
+    "section": "15.3多元回归分析",
+    "text": "15.3多元回归分析\n\n\n15.3.1 多元回归方程的估计和检验\n15.3.2 多元回归分析在Excel中的实现"
+  },
+  {
+    "objectID": "chap15.html#估计模型参数-3",
+    "href": "chap15.html#估计模型参数-3",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数"
+  },
+  {
+    "objectID": "chap15.html#估计模型参数-4",
+    "href": "chap15.html#估计模型参数-4",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数"
+  },
+  {
+    "objectID": "chap15_slide.html#第15章-回归分析",
+    "href": "chap15_slide.html#第15章-回归分析",
+    "title": "第15章 回归分析",
+    "section": "第15章 回归分析",
+    "text": "第15章 回归分析\n\n\n15.1回归分析的工作流程\n15.2 一元回归分析\n15.3多元回归分析"
+  },
+  {
+    "objectID": "chap15_slide.html#回归分析的工作流程",
+    "href": "chap15_slide.html#回归分析的工作流程",
+    "title": "第15章 回归分析",
+    "section": "15.1回归分析的工作流程",
+    "text": "15.1回归分析的工作流程\n\n\n15.1.1 建立回归模型\n15.1.2 估计模型参数\n15.1.3 检验模型参数\n15.1.4 评估模型效果\n15.1.5 提炼研究结论"
+  },
+  {
+    "objectID": "chap15_slide.html#回归分析的工作流程-1",
+    "href": "chap15_slide.html#回归分析的工作流程-1",
+    "title": "第15章 回归分析",
+    "section": "15.1回归分析的工作流程",
+    "text": "15.1回归分析的工作流程\n\n图15.1 回归分析的工作流程"
+  },
+  {
+    "objectID": "chap15_slide.html#建立回归模型",
+    "href": "chap15_slide.html#建立回归模型",
+    "title": "第15章 回归分析",
+    "section": "15.1.1 建立回归模型",
+    "text": "15.1.1 建立回归模型"
+  },
+  {
+    "objectID": "chap15_slide.html#估计模型参数",
+    "href": "chap15_slide.html#估计模型参数",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数\n\n图15.2 在散添图中添加回归线"
+  },
+  {
+    "objectID": "chap15_slide.html#估计模型参数-1",
+    "href": "chap15_slide.html#估计模型参数-1",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数\n\n图15.3 普通最小二乘法示意图"
+  },
+  {
+    "objectID": "chap15_slide.html#估计模型参数-2",
+    "href": "chap15_slide.html#估计模型参数-2",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数\n\n图15.3 普通最小二乘法示意图"
+  },
+  {
+    "objectID": "chap15_slide.html#估计模型参数-3",
+    "href": "chap15_slide.html#估计模型参数-3",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数"
+  },
+  {
+    "objectID": "chap15_slide.html#估计模型参数-4",
+    "href": "chap15_slide.html#估计模型参数-4",
+    "title": "第15章 回归分析",
+    "section": "15.1.2 估计模型参数",
+    "text": "15.1.2 估计模型参数"
+  },
+  {
+    "objectID": "chap15_slide.html#检验模型参数",
+    "href": "chap15_slide.html#检验模型参数",
+    "title": "第15章 回归分析",
+    "section": "15.1.3 检验模型参数",
+    "text": "15.1.3 检验模型参数"
+  },
+  {
+    "objectID": "chap15_slide.html#评估模型效果",
+    "href": "chap15_slide.html#评估模型效果",
+    "title": "第15章 回归分析",
+    "section": "15.1.4 评估模型效果",
+    "text": "15.1.4 评估模型效果\n\n判定系数代表在被解释变量的变异中有多大比例可以被回归方程解释。\n判定系数的值介于0到1之间，R^2的值越高，代表模型的拟合效果越好。"
+  },
+  {
+    "objectID": "chap15_slide.html#提炼研究结论",
+    "href": "chap15_slide.html#提炼研究结论",
+    "title": "第15章 回归分析",
+    "section": "15.1.5 提炼研究结论",
+    "text": "15.1.5 提炼研究结论\n\n提炼研究结论\n总结解释变量对被解释变量的影响效应\n评估模型的拟合效果"
+  },
+  {
+    "objectID": "chap15_slide.html#一元回归分析",
+    "href": "chap15_slide.html#一元回归分析",
+    "title": "第15章 回归分析",
+    "section": "15.2 一元回归分析",
+    "text": "15.2 一元回归分析\n\n\n15.2.1 散点图中添加趋势线\n15.2.2 函数工具\n15.2.3 数据分析/回归工具"
+  },
+  {
+    "objectID": "chap15_slide.html#散点图中添加趋势线",
+    "href": "chap15_slide.html#散点图中添加趋势线",
+    "title": "第15章 回归分析",
+    "section": "15.2.1 散点图中添加趋势线",
+    "text": "15.2.1 散点图中添加趋势线\n\n图15. 6 在散点图中添加趋势线及设置趋势线格式"
+  },
+  {
+    "objectID": "chap15_slide.html#函数工具",
+    "href": "chap15_slide.html#函数工具",
+    "title": "第15章 回归分析",
+    "section": "15.2.2 函数工具",
+    "text": "15.2.2 函数工具\n\nINTERCEPT函数\nSLOPE函数\nRSQ函数\nSTEYX函数"
+  },
+  {
+    "objectID": "chap15_slide.html#函数工具-1",
+    "href": "chap15_slide.html#函数工具-1",
+    "title": "第15章 回归分析",
+    "section": "15.2.2 函数工具",
+    "text": "15.2.2 函数工具\n\n实操技巧\nINTERCEPT函数、SLOPE函数、RSQ函数和STEYX函数可以分别计算一元回归模型的截距、斜率、判定系数和回归标准误。LINEST函数可以报告回归方程的详细输出结果。\n上述函数的相同之处是：第1项参数是被解释变量的数据区域，第2项参数是解释变量的数据区域。\nFORECAST.LINEAR函数和TREND函数可以对给定的解释变量的值，对被解释变量进行预测。\n给数据区域定义名称，可以提高公式录入效率。"
+  },
+  {
+    "objectID": "chap15_slide.html#数据分析回归工具",
+    "href": "chap15_slide.html#数据分析回归工具",
+    "title": "第15章 回归分析",
+    "section": "15.2.3 数据分析/回归工具",
+    "text": "15.2.3 数据分析/回归工具\n\n图15.14 数据分析/回归对话框"
+  },
+  {
+    "objectID": "chap15_slide.html#多元回归分析",
+    "href": "chap15_slide.html#多元回归分析",
+    "title": "第15章 回归分析",
+    "section": "15.3多元回归分析",
+    "text": "15.3多元回归分析\n\n\n15.3.1 多元回归方程的估计和检验\n15.3.2 多元回归分析在Excel中的实现"
+  },
+  {
+    "objectID": "chap15_slide.html#多元回归方程的估计和检验",
+    "href": "chap15_slide.html#多元回归方程的估计和检验",
+    "title": "第15章 回归分析",
+    "section": "15.3.1 多元回归方程的估计和检验",
+    "text": "15.3.1 多元回归方程的估计和检验\n ## 15.3.1 多元回归方程的估计和检验\n::: incremental\n\n参数的估计\n单个参数的t检验\n多个参数的F检验\n校正的判定系数 :::"
+  },
+  {
+    "objectID": "chap15_slide.html#多元回归分析在excel中的实现",
+    "href": "chap15_slide.html#多元回归分析在excel中的实现",
+    "title": "第15章 回归分析",
+    "section": "15.3.2 多元回归分析在Excel中的实现",
+    "text": "15.3.2 多元回归分析在Excel中的实现\n\n图15.18 多元回归方程的LINEST函数的详细输出结果"
+  },
+  {
+    "objectID": "chap15_slide.html#多元回归分析在excel中的实现-1",
+    "href": "chap15_slide.html#多元回归分析在excel中的实现-1",
+    "title": "第15章 回归分析",
+    "section": "15.3.2 多元回归分析在Excel中的实现",
+    "text": "15.3.2 多元回归分析在Excel中的实现\n\n实操技巧\n数组函数LINEST可以报告多元回归模型的详细输出结果，第1项参数是被解释变量的数据区域，第2项参数是解释变量的数据区域。\nTREND函数可以计算多元回归模型的预测值。对给定的解释变量的值，对被解释变量进行预测，第1项和第2项参数分别是被解释变量和解释变量的数据区域，第3项参数是给定的解释变量的值的区域。"
+  },
+  {
+    "objectID": "chap15_slide.html#第15章总结",
+    "href": "chap15_slide.html#第15章总结",
+    "title": "第15章 回归分析",
+    "section": "第15章总结",
+    "text": "第15章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap16.html#第16章-时间序列",
+    "href": "chap16.html#第16章-时间序列",
+    "title": "第16章 时间序列",
+    "section": "第16章 时间序列",
+    "text": "第16章 时间序列\n\n\n16.1 描述性分析\n16.2 平稳序列\n16.3 非平稳序列\n16.4 复合型时间序列\n16.5 三段式指数平滑法"
+  },
+  {
+    "objectID": "chap16.html#描述性分析",
+    "href": "chap16.html#描述性分析",
+    "title": "第16章 时间序列",
+    "section": "16.1 描述性分析",
+    "text": "16.1 描述性分析\n\n\n16.1.1 长期趋势\n16.1.2 季节变动\n16.1.3 循环变动\n16.1.4 不规则变动"
+  },
+  {
+    "objectID": "chap16.html#长期趋势",
+    "href": "chap16.html#长期趋势",
+    "title": "第16章 时间序列",
+    "section": "16.1.1 长期趋势",
+    "text": "16.1.1 长期趋势\n\n长期趋势（Long-term Trend）是时间序列中呈现出来的持续性的变动趋势。"
+  },
+  {
+    "objectID": "chap16.html#季节变动",
+    "href": "chap16.html#季节变动",
+    "title": "第16章 时间序列",
+    "section": "16.1.2 季节变动",
+    "text": "16.1.2 季节变动\n\n季节变动（Seasonal Variation）是指由于自然气候、风俗习惯等造成的时间序列的周期性波动。\n季节变动的周期长度通常小于1年，具有较强的规律性，从时序图中可以发现季节变动成分。"
+  },
+  {
+    "objectID": "chap16.html#循环变动",
+    "href": "chap16.html#循环变动",
+    "title": "第16章 时间序列",
+    "section": "16.1.3 循环变动",
+    "text": "16.1.3 循环变动\n\n循环变动（Cyclical Variation）是指时间序列围绕长期趋势的有规律的起伏波动。\n循环波动的成因比较复杂，周期的长度不固定。"
+  },
+  {
+    "objectID": "chap16.html#不规则变动",
+    "href": "chap16.html#不规则变动",
+    "title": "第16章 时间序列",
+    "section": "16.1.4 不规则变动",
+    "text": "16.1.4 不规则变动\n\n不规则变动（Irregualr Variation）是指时间序列中剥离了长期趋势、季节变动、循环变动三种成分后剩下的部分。\n不规则变动是由于各种各样的随机因素共同作用的，其变化特征不可预见。"
+  },
+  {
+    "objectID": "chap16.html#平稳序列",
+    "href": "chap16.html#平稳序列",
+    "title": "第16章 时间序列",
+    "section": "16.2 平稳序列",
+    "text": "16.2 平稳序列\n\n\n16.2.1 平稳序列的识别\n16.2.2 移动平均法\n16.2.3 指数平滑法"
+  },
+  {
+    "objectID": "chap16.html#平稳序列的识别",
+    "href": "chap16.html#平稳序列的识别",
+    "title": "第16章 时间序列",
+    "section": "16.2.1 平稳序列的识别",
+    "text": "16.2.1 平稳序列的识别\n\n图16.5 2022年242个交易日的上证指数日回报率的时序图"
+  },
+  {
+    "objectID": "chap16.html#移动平均法",
+    "href": "chap16.html#移动平均法",
+    "title": "第16章 时间序列",
+    "section": "16.2.2 移动平均法",
+    "text": "16.2.2 移动平均法\n\n将最近几期观测值的平均值作为下一期的预测值。\n若使用最近3期观测值的平均值，作为下一期的预测，就称作3期移动平均，记作MA(3)。"
+  },
+  {
+    "objectID": "chap16.html#移动平均法-1",
+    "href": "chap16.html#移动平均法-1",
+    "title": "第16章 时间序列",
+    "section": "16.2.2 移动平均法",
+    "text": "16.2.2 移动平均法"
+  },
+  {
+    "objectID": "chap16.html#指数平滑法",
+    "href": "chap16.html#指数平滑法",
+    "title": "第16章 时间序列",
+    "section": "16.2.3 指数平滑法",
+    "text": "16.2.3 指数平滑法\n\n指数平滑法（Smoothing Exponential）和移动平均法其核心思想都是采用修匀技术消除序列的不规则变动。\n移动平均采用的是逐期求平均的修匀技术，指数平滑则采用对历史数据进行加权平均的修匀技术。"
+  },
+  {
+    "objectID": "chap16.html#指数平滑法-1",
+    "href": "chap16.html#指数平滑法-1",
+    "title": "第16章 时间序列",
+    "section": "16.2.3 指数平滑法",
+    "text": "16.2.3 指数平滑法"
+  },
+  {
+    "objectID": "chap16.html#指数平滑法-2",
+    "href": "chap16.html#指数平滑法-2",
+    "title": "第16章 时间序列",
+    "section": "16.2.3 指数平滑法",
+    "text": "16.2.3 指数平滑法\n\n图16.11 “规划求解参数”对话框的设置"
+  },
+  {
+    "objectID": "chap16.html#非平稳序列",
+    "href": "chap16.html#非平稳序列",
+    "title": "第16章 时间序列",
+    "section": "16.3 非平稳序列",
+    "text": "16.3 非平稳序列\n\n\n16.3.1 线性趋势分析\n16.3.2 非线性趋势分析\n16.3.3 阶段性分析"
+  },
+  {
+    "objectID": "chap16.html#线性趋势分析",
+    "href": "chap16.html#线性趋势分析",
+    "title": "第16章 时间序列",
+    "section": "16.3.1 线性趋势分析",
+    "text": "16.3.1 线性趋势分析"
+  },
+  {
+    "objectID": "chap16.html#线性趋势分析-1",
+    "href": "chap16.html#线性趋势分析-1",
+    "title": "第16章 时间序列",
+    "section": "16.3.1 线性趋势分析",
+    "text": "16.3.1 线性趋势分析\n\n实操技巧\n绘制时间序列的时间编号和观测值的散点图，在散点图中单击散点，单击右键，在弹出的列表中选择“添加趋势线…”，选择“线性”，勾选“显示公式”和“显示R平方值”，报告线性趋势方程。\nFORECAST.LINEAR函数可以利用估计的回归方程对时间序列进行预测。"
+  },
+  {
+    "objectID": "chap16.html#非线性趋势分析",
+    "href": "chap16.html#非线性趋势分析",
+    "title": "第16章 时间序列",
+    "section": "16.3.2 非线性趋势分析",
+    "text": "16.3.2 非线性趋势分析\n\n对数线性回归方程\n二次项回归方程"
+  },
+  {
+    "objectID": "chap16.html#非线性趋势分析-1",
+    "href": "chap16.html#非线性趋势分析-1",
+    "title": "第16章 时间序列",
+    "section": "16.3.2 非线性趋势分析",
+    "text": "16.3.2 非线性趋势分析\n\n实操技巧\n在对数线性模型中，可以先将时间序列的观测值取自然对数，然后绘制时间编号与对数序列的散点图，再添加线性趋势线。\n若时间序列的时序图呈现U型或者倒U型变化趋势，可以在时序图中添加多项式趋势线，将阶数设定为2。"
+  },
+  {
+    "objectID": "chap16.html#阶段性分析",
+    "href": "chap16.html#阶段性分析",
+    "title": "第16章 时间序列",
+    "section": "16.3.3 阶段性分析",
+    "text": "16.3.3 阶段性分析\n\n时间序列的变化趋势可能呈现阶段性变换，在不同阶段其变化趋势有着显著差异，可以在回归模型中引入反映不同阶段的虚拟变量。"
+  },
+  {
+    "objectID": "chap16.html#阶段性分析-1",
+    "href": "chap16.html#阶段性分析-1",
+    "title": "第16章 时间序列",
+    "section": "16.3.3 阶段性分析",
+    "text": "16.3.3 阶段性分析\n\n图16. 19 创建虚拟变量STAGE1和STAGE2"
+  },
+  {
+    "objectID": "chap16.html#复合型时间序列",
+    "href": "chap16.html#复合型时间序列",
+    "title": "第16章 时间序列",
+    "section": "16.4 复合型时间序列",
+    "text": "16.4 复合型时间序列\n\n\n16.4.1 因素分解法\n16.4.2 乘法模型"
+  },
+  {
+    "objectID": "chap16.html#因素分解法",
+    "href": "chap16.html#因素分解法",
+    "title": "第16章 时间序列",
+    "section": "16.4.1 因素分解法",
+    "text": "16.4.1 因素分解法\n\n因素分解法的核心思想\n将时间序列中的长期趋势、季节变动、循环变动和不规则变动四种成分分离出来，通过研究每种成分的特征，进而发现时间序列的变动规律。"
+  },
+  {
+    "objectID": "chap16.html#因素分解法-1",
+    "href": "chap16.html#因素分解法-1",
+    "title": "第16章 时间序列",
+    "section": "16.4.1 因素分解法",
+    "text": "16.4.1 因素分解法"
+  },
+  {
+    "objectID": "chap16.html#乘法模型",
+    "href": "chap16.html#乘法模型",
+    "title": "第16章 时间序列",
+    "section": "16.4.2 乘法模型",
+    "text": "16.4.2 乘法模型\n\n图16.23 2016年第1季度至2019年第4季度全国工业企业手机季度销售量的时序图"
+  },
+  {
+    "objectID": "chap16.html#乘法模型-1",
+    "href": "chap16.html#乘法模型-1",
+    "title": "第16章 时间序列",
+    "section": "16.4.2 乘法模型",
+    "text": "16.4.2 乘法模型\n\n图16.29 FORECAST.LINEAR函数计算长期趋势的预测值"
+  },
+  {
+    "objectID": "chap16.html#三段式指数平滑法",
+    "href": "chap16.html#三段式指数平滑法",
+    "title": "第16章 时间序列",
+    "section": "16.5 三段式指数平滑法",
+    "text": "16.5 三段式指数平滑法\n\n\n16.5.1 模型设定\n16.5.2 FORECAST.ETS函数\n16.5.3 “预测工作表”工具"
+  },
+  {
+    "objectID": "chap16.html#模型设定",
+    "href": "chap16.html#模型设定",
+    "title": "第16章 时间序列",
+    "section": "16.5.1 模型设定",
+    "text": "16.5.1 模型设定\n\n美国学者Holt在1957年开创性地提出了指数平滑法。\n1960年Holt的学生Winters从信号理论中得到启发，提出了三段式指数平滑（Triple Exponential Smoothing）法，因此该方法也被称Holt-Winters方法。"
+  },
+  {
+    "objectID": "chap16.html#forecast.ets函数",
+    "href": "chap16.html#forecast.ets函数",
+    "title": "第16章 时间序列",
+    "section": "16.5.2 FORECAST.ETS函数",
+    "text": "16.5.2 FORECAST.ETS函数\n\n图16. 33 2016年1月至2018年12月全国民航客运量的时序图"
+  },
+  {
+    "objectID": "chap16.html#forecast.ets函数-1",
+    "href": "chap16.html#forecast.ets函数-1",
+    "title": "第16章 时间序列",
+    "section": "16.5.2 FORECAST.ETS函数",
+    "text": "16.5.2 FORECAST.ETS函数\n\nFORECAST.ETS函数可以根据时间序列的历史数据识别长期趋势成分、季节变动。\n在实践中，需要注意的是，对于包含季节变动的序列，需要提供涵盖数个季节变动周期的历史数据，才能达到好的预测效果。"
+  },
+  {
+    "objectID": "chap16.html#预测工作表工具",
+    "href": "chap16.html#预测工作表工具",
+    "title": "第16章 时间序列",
+    "section": "16.5.3 “预测工作表”工具",
+    "text": "16.5.3 “预测工作表”工具\n\n图16. 39 “预测工作表”工具的输出结果"
+  },
+  {
+    "objectID": "chap16.html#第16章总结",
+    "href": "chap16.html#第16章总结",
+    "title": "第16章 时间序列",
+    "section": "第16章总结",
+    "text": "第16章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
+  },
+  {
+    "objectID": "chap16.html#移动平均法-2",
+    "href": "chap16.html#移动平均法-2",
+    "title": "第16章 时间序列",
+    "section": "16.2.2 移动平均法",
+    "text": "16.2.2 移动平均法\n\n图16.9 数据分析工具中的“移动平均”"
+  },
+  {
+    "objectID": "chap16_slide.html#第16章-时间序列",
+    "href": "chap16_slide.html#第16章-时间序列",
+    "title": "第16章 时间序列",
+    "section": "第16章 时间序列",
+    "text": "第16章 时间序列\n\n\n16.1 描述性分析\n16.2 平稳序列\n16.3 非平稳序列\n16.4 复合型时间序列\n16.5 三段式指数平滑法"
+  },
+  {
+    "objectID": "chap16_slide.html#描述性分析",
+    "href": "chap16_slide.html#描述性分析",
+    "title": "第16章 时间序列",
+    "section": "16.1 描述性分析",
+    "text": "16.1 描述性分析\n\n\n16.1.1 长期趋势\n16.1.2 季节变动\n16.1.3 循环变动\n16.1.4 不规则变动"
+  },
+  {
+    "objectID": "chap16_slide.html#长期趋势",
+    "href": "chap16_slide.html#长期趋势",
+    "title": "第16章 时间序列",
+    "section": "16.1.1 长期趋势",
+    "text": "16.1.1 长期趋势\n\n长期趋势（Long-term Trend）是时间序列中呈现出来的持续性的变动趋势。"
+  },
+  {
+    "objectID": "chap16_slide.html#季节变动",
+    "href": "chap16_slide.html#季节变动",
+    "title": "第16章 时间序列",
+    "section": "16.1.2 季节变动",
+    "text": "16.1.2 季节变动\n\n季节变动（Seasonal Variation）是指由于自然气候、风俗习惯等造成的时间序列的周期性波动。\n季节变动的周期长度通常小于1年，具有较强的规律性，从时序图中可以发现季节变动成分。"
+  },
+  {
+    "objectID": "chap16_slide.html#循环变动",
+    "href": "chap16_slide.html#循环变动",
+    "title": "第16章 时间序列",
+    "section": "16.1.3 循环变动",
+    "text": "16.1.3 循环变动\n\n循环变动（Cyclical Variation）是指时间序列围绕长期趋势的有规律的起伏波动。\n循环波动的成因比较复杂，周期的长度不固定。"
+  },
+  {
+    "objectID": "chap16_slide.html#不规则变动",
+    "href": "chap16_slide.html#不规则变动",
+    "title": "第16章 时间序列",
+    "section": "16.1.4 不规则变动",
+    "text": "16.1.4 不规则变动\n\n不规则变动（Irregualr Variation）是指时间序列中剥离了长期趋势、季节变动、循环变动三种成分后剩下的部分。\n不规则变动是由于各种各样的随机因素共同作用的，其变化特征不可预见。"
+  },
+  {
+    "objectID": "chap16_slide.html#平稳序列",
+    "href": "chap16_slide.html#平稳序列",
+    "title": "第16章 时间序列",
+    "section": "16.2 平稳序列",
+    "text": "16.2 平稳序列\n\n\n16.2.1 平稳序列的识别\n16.2.2 移动平均法\n16.2.3 指数平滑法"
+  },
+  {
+    "objectID": "chap16_slide.html#平稳序列的识别",
+    "href": "chap16_slide.html#平稳序列的识别",
+    "title": "第16章 时间序列",
+    "section": "16.2.1 平稳序列的识别",
+    "text": "16.2.1 平稳序列的识别\n\n图16.5 2022年242个交易日的上证指数日回报率的时序图"
+  },
+  {
+    "objectID": "chap16_slide.html#移动平均法",
+    "href": "chap16_slide.html#移动平均法",
+    "title": "第16章 时间序列",
+    "section": "16.2.2 移动平均法",
+    "text": "16.2.2 移动平均法\n\n将最近几期观测值的平均值作为下一期的预测值。\n若使用最近3期观测值的平均值，作为下一期的预测，就称作3期移动平均，记作MA(3)。"
+  },
+  {
+    "objectID": "chap16_slide.html#移动平均法-1",
+    "href": "chap16_slide.html#移动平均法-1",
+    "title": "第16章 时间序列",
+    "section": "16.2.2 移动平均法",
+    "text": "16.2.2 移动平均法"
+  },
+  {
+    "objectID": "chap16_slide.html#移动平均法-2",
+    "href": "chap16_slide.html#移动平均法-2",
+    "title": "第16章 时间序列",
+    "section": "16.2.2 移动平均法",
+    "text": "16.2.2 移动平均法\n\n图16.9 数据分析工具中的“移动平均”"
+  },
+  {
+    "objectID": "chap16_slide.html#指数平滑法",
+    "href": "chap16_slide.html#指数平滑法",
+    "title": "第16章 时间序列",
+    "section": "16.2.3 指数平滑法",
+    "text": "16.2.3 指数平滑法\n\n指数平滑法（Smoothing Exponential）和移动平均法其核心思想都是采用修匀技术消除序列的不规则变动。\n移动平均采用的是逐期求平均的修匀技术，指数平滑则采用对历史数据进行加权平均的修匀技术。"
+  },
+  {
+    "objectID": "chap16_slide.html#指数平滑法-1",
+    "href": "chap16_slide.html#指数平滑法-1",
+    "title": "第16章 时间序列",
+    "section": "16.2.3 指数平滑法",
+    "text": "16.2.3 指数平滑法"
+  },
+  {
+    "objectID": "chap16_slide.html#指数平滑法-2",
+    "href": "chap16_slide.html#指数平滑法-2",
+    "title": "第16章 时间序列",
+    "section": "16.2.3 指数平滑法",
+    "text": "16.2.3 指数平滑法\n\n图16.11 “规划求解参数”对话框的设置"
+  },
+  {
+    "objectID": "chap16_slide.html#非平稳序列",
+    "href": "chap16_slide.html#非平稳序列",
+    "title": "第16章 时间序列",
+    "section": "16.3 非平稳序列",
+    "text": "16.3 非平稳序列\n\n\n16.3.1 线性趋势分析\n16.3.2 非线性趋势分析\n16.3.3 阶段性分析"
+  },
+  {
+    "objectID": "chap16_slide.html#线性趋势分析",
+    "href": "chap16_slide.html#线性趋势分析",
+    "title": "第16章 时间序列",
+    "section": "16.3.1 线性趋势分析",
+    "text": "16.3.1 线性趋势分析"
+  },
+  {
+    "objectID": "chap16_slide.html#线性趋势分析-1",
+    "href": "chap16_slide.html#线性趋势分析-1",
+    "title": "第16章 时间序列",
+    "section": "16.3.1 线性趋势分析",
+    "text": "16.3.1 线性趋势分析\n\n实操技巧\n绘制时间序列的时间编号和观测值的散点图，在散点图中单击散点，单击右键，在弹出的列表中选择“添加趋势线…”，选择“线性”，勾选“显示公式”和“显示R平方值”，报告线性趋势方程。\nFORECAST.LINEAR函数可以利用估计的回归方程对时间序列进行预测。"
+  },
+  {
+    "objectID": "chap16_slide.html#非线性趋势分析",
+    "href": "chap16_slide.html#非线性趋势分析",
+    "title": "第16章 时间序列",
+    "section": "16.3.2 非线性趋势分析",
+    "text": "16.3.2 非线性趋势分析\n\n对数线性回归方程\n二次项回归方程"
+  },
+  {
+    "objectID": "chap16_slide.html#非线性趋势分析-1",
+    "href": "chap16_slide.html#非线性趋势分析-1",
+    "title": "第16章 时间序列",
+    "section": "16.3.2 非线性趋势分析",
+    "text": "16.3.2 非线性趋势分析\n\n实操技巧\n在对数线性模型中，可以先将时间序列的观测值取自然对数，然后绘制时间编号与对数序列的散点图，再添加线性趋势线。\n若时间序列的时序图呈现U型或者倒U型变化趋势，可以在时序图中添加多项式趋势线，将阶数设定为2。"
+  },
+  {
+    "objectID": "chap16_slide.html#阶段性分析",
+    "href": "chap16_slide.html#阶段性分析",
+    "title": "第16章 时间序列",
+    "section": "16.3.3 阶段性分析",
+    "text": "16.3.3 阶段性分析\n\n时间序列的变化趋势可能呈现阶段性变换，在不同阶段其变化趋势有着显著差异，可以在回归模型中引入反映不同阶段的虚拟变量。"
+  },
+  {
+    "objectID": "chap16_slide.html#阶段性分析-1",
+    "href": "chap16_slide.html#阶段性分析-1",
+    "title": "第16章 时间序列",
+    "section": "16.3.3 阶段性分析",
+    "text": "16.3.3 阶段性分析\n\n图16. 19 创建虚拟变量STAGE1和STAGE2"
+  },
+  {
+    "objectID": "chap16_slide.html#复合型时间序列",
+    "href": "chap16_slide.html#复合型时间序列",
+    "title": "第16章 时间序列",
+    "section": "16.4 复合型时间序列",
+    "text": "16.4 复合型时间序列\n\n\n16.4.1 因素分解法\n16.4.2 乘法模型"
+  },
+  {
+    "objectID": "chap16_slide.html#因素分解法",
+    "href": "chap16_slide.html#因素分解法",
+    "title": "第16章 时间序列",
+    "section": "16.4.1 因素分解法",
+    "text": "16.4.1 因素分解法\n\n因素分解法的核心思想\n将时间序列中的长期趋势、季节变动、循环变动和不规则变动四种成分分离出来，通过研究每种成分的特征，进而发现时间序列的变动规律。"
+  },
+  {
+    "objectID": "chap16_slide.html#因素分解法-1",
+    "href": "chap16_slide.html#因素分解法-1",
+    "title": "第16章 时间序列",
+    "section": "16.4.1 因素分解法",
+    "text": "16.4.1 因素分解法"
+  },
+  {
+    "objectID": "chap16_slide.html#乘法模型",
+    "href": "chap16_slide.html#乘法模型",
+    "title": "第16章 时间序列",
+    "section": "16.4.2 乘法模型",
+    "text": "16.4.2 乘法模型\n\n图16.23 2016年第1季度至2019年第4季度全国工业企业手机季度销售量的时序图"
+  },
+  {
+    "objectID": "chap16_slide.html#乘法模型-1",
+    "href": "chap16_slide.html#乘法模型-1",
+    "title": "第16章 时间序列",
+    "section": "16.4.2 乘法模型",
+    "text": "16.4.2 乘法模型\n\n图16.29 FORECAST.LINEAR函数计算长期趋势的预测值"
+  },
+  {
+    "objectID": "chap16_slide.html#三段式指数平滑法",
+    "href": "chap16_slide.html#三段式指数平滑法",
+    "title": "第16章 时间序列",
+    "section": "16.5 三段式指数平滑法",
+    "text": "16.5 三段式指数平滑法\n\n\n16.5.1 模型设定\n16.5.2 FORECAST.ETS函数\n16.5.3 “预测工作表”工具"
+  },
+  {
+    "objectID": "chap16_slide.html#模型设定",
+    "href": "chap16_slide.html#模型设定",
+    "title": "第16章 时间序列",
+    "section": "16.5.1 模型设定",
+    "text": "16.5.1 模型设定\n\n美国学者Holt在1957年开创性地提出了指数平滑法。\n1960年Holt的学生Winters从信号理论中得到启发，提出了三段式指数平滑（Triple Exponential Smoothing）法，因此该方法也被称Holt-Winters方法。"
+  },
+  {
+    "objectID": "chap16_slide.html#forecast.ets函数",
+    "href": "chap16_slide.html#forecast.ets函数",
+    "title": "第16章 时间序列",
+    "section": "16.5.2 FORECAST.ETS函数",
+    "text": "16.5.2 FORECAST.ETS函数\n\n图16. 33 2016年1月至2018年12月全国民航客运量的时序图"
+  },
+  {
+    "objectID": "chap16_slide.html#forecast.ets函数-1",
+    "href": "chap16_slide.html#forecast.ets函数-1",
+    "title": "第16章 时间序列",
+    "section": "16.5.2 FORECAST.ETS函数",
+    "text": "16.5.2 FORECAST.ETS函数\n\nFORECAST.ETS函数可以根据时间序列的历史数据识别长期趋势成分、季节变动。\n在实践中，需要注意的是，对于包含季节变动的序列，需要提供涵盖数个季节变动周期的历史数据，才能达到好的预测效果。"
+  },
+  {
+    "objectID": "chap16_slide.html#预测工作表工具",
+    "href": "chap16_slide.html#预测工作表工具",
+    "title": "第16章 时间序列",
+    "section": "16.5.3 “预测工作表”工具",
+    "text": "16.5.3 “预测工作表”工具\n\n图16. 39 “预测工作表”工具的输出结果"
+  },
+  {
+    "objectID": "chap16_slide.html#第16章总结",
+    "href": "chap16_slide.html#第16章总结",
+    "title": "第16章 时间序列",
+    "section": "第16章总结",
+    "text": "第16章总结\n\n\n\n\n\nhttps://lizongzhang.github.io/excelstat"
   }
 ]
