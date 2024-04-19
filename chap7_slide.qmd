@@ -3,6 +3,7 @@ title: "第7章 离散型随机变量的分布"
 author: "《精通Excel数据统计与分析》"
 format: pptx
 ---
+
 ## 第7章 连续型随机变量的分布
 ::: incremental
 
@@ -39,7 +40,9 @@ format: pptx
 
 ## 7.1.2 概率密度函数
 
-概率密度函数（Probability Density Function，简称PDF），描述了连续型随机变量X的分布
+-   概率密度函数（Probability Density Function，简称PDF），描述了连续型随机变量X的分布
+
+## 7.1.2 概率密度函数的性质
 
 ![](img/eq7.1.png) 
 
@@ -89,6 +92,7 @@ format: pptx
 ## 7.3.1 正态分布的性质
 
 ![图7.3 均值相同，标准差不同的正态分布概率密度曲线](img/pic7.3.png) 
+
 ## 7.3.1 Excel实操技巧
 
 -   在NORM.DIST函数中，将最后一项参数设置为“FALSE”，计算正态分布的概率密度函数的值；最后一项参数设置为“TRUE”，计算正态分布的累积分布函数的值，即服从正态分布的随机变量小于等于指定值的概率。
@@ -100,6 +104,7 @@ format: pptx
 ## 7.3.2 Excel绘制正态分布的PDF和CDF
 
 ![图7. 9  正态分布的PDF和CDF曲线](img/pic7.9.png) 
+
 ## 7.3.3 正态分布的应用
 
 -   诊断数据中是否存在异常值
@@ -136,7 +141,7 @@ format: pptx
 ![](img/pic7.17.png)
 
 ## 7.4.2 EXCEL绘制卡方分布的PDF和CDF
-![](img/pic7.19.png)
+![图7.17 服从χ^2 (20)的500个随机数的直方图](img/pic7.19.png)
 
 
 
@@ -164,7 +169,7 @@ format: pptx
 
 
 ## 7.5.2 EXCEL绘制t分布的PDF和CDF
-![](img/pic7.23.png)
+![图7.23  t(2)、t(5)、t(15)和N(0,1)的概率密度曲线](img/pic7.23.png)
 
 ## 7.5.3 t分布的应用
 
@@ -194,13 +199,13 @@ format: pptx
 ![图7.27  F(3,8)、F(10,20)、F(30,30)、F(100,1000)的概率密度曲线](img/pic7.27.png)
 
 ## 7.6.3 F分布的应用
-![](img/pic7.19.png)
-
-## 7.7 指数分布
 
 -   两个总体的方差比的检验
 
 -   方差分析
+
+## 7.7 指数分布
+
 
 ::: incremental
 -   7.7.1 指数分布的性质

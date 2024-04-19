@@ -1,5 +1,6 @@
 ---
 title: "第2章 定性数据的图表展示"
+author: "《精通Excel数据统计与分析》"
 format: pptx
 ---
 
