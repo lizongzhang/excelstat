@@ -20,7 +20,7 @@ title: "第2篇 描述统计分析"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap3_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.1讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.1讲评视频](https://www.bilibili.com/video/BV1aH4y1N7QH/)
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.2讲评视频]<to be updated>
 
@@ -46,7 +46,7 @@ title: "第2篇 描述统计分析"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.1讲评视频]<to be updated>
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.2讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.2讲评视频](https://www.bilibili.com/video/BV1Hr421g75i/)
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.3讲评视频]<to be updated>
 
