@@ -11,7 +11,15 @@ title: "第3篇 推断统计分析知识准备"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.1-6.2讲评视频](https://www.bilibili.com/video/BV1dD421K7Mb/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.3讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.3讲评视频](https://www.bilibili.com/video/BV1GF4m1A7vT/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.4讲评视频](https://www.bilibili.com/video/BV1cT42117WA/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.5讲评视频](https://www.bilibili.com/video/BV19J4m1J7KF/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.6讲评视频](https://www.bilibili.com/video/BV1ci421m75b/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题6.7讲评视频](https://www.bilibili.com/video/BV1XJ4m1J7Wk/)
 
 <h1 style="color: #044875;"> 第7章 连续型随机变量的分布 </h1>
 
