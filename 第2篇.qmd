@@ -8,11 +8,11 @@ title: "第2篇 描述统计分析"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap2_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.1讲评视频](https://www.bilibili.com/video/BV15E421M7RV/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.1讲评视频 定性数据的图表展示 23:57](https://www.bilibili.com/video/BV15E421M7RV/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.2讲评视频](https://www.bilibili.com/video/BV1Py411z7LB/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.2讲评视频 瀑布图树状图的绘制 10:21 ](https://www.bilibili.com/video/BV1Py411z7LB/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.3讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题2.3讲评视频 定性数据的可视化：饼图｜帕累托图｜层级树状图 17:12](https://www.bilibili.com/video/BV1vZ421N7VD/)
 
 <h1 style="color: #044875;">  第3章 定量数据的图表展示</h1>
 
@@ -20,11 +20,11 @@ title: "第2篇 描述统计分析"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap3_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.1讲评视频](https://www.bilibili.com/video/BV1aH4y1N7QH/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.1讲评视频 定量数据的图表展示 21:14](https://www.bilibili.com/video/BV1aH4y1N7QH/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.2讲评视频]<https://www.bilibili.com/video/BV1xx4y1J7pm/>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.2讲评视频 定量变量的可视化工具：直方图｜频数折线图｜累积百分比折线图｜ 箱形图｜茎叶图 13:15](https://www.bilibili.com/video/BV1xx4y1J7pm/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.3讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题3.3讲评视频 定量数据的可视化：直方图｜频数折线图｜箱线图 11:06](https://www.bilibili.com/video/BV1Rf421q7UV/)
 
 <h1 style="color: #044875;"> 第4章 二维数据的图表展示 </h1>
 
@@ -32,11 +32,11 @@ title: "第2篇 描述统计分析"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap4_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.1讲评视频](https://www.bilibili.com/video/BV1Xs421M7iP/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.1讲评视频 二维数据的可视化：列联表｜堆积条形图｜分组直方图｜分组箱线图 14:00](https://www.bilibili.com/video/BV1Xs421M7iP/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.2讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.2讲评视频 二维数据的可视化 堆积条形图｜分组直方图｜分组箱形图 9:39](https://www.bilibili.com/video/BV1wx4y1s7hF/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.3讲评视频](https://www.bilibili.com/video/BV1nm411U7mS/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题4.3讲评视频 二维数据的图表展示 26:22](https://www.bilibili.com/video/BV1nm411U7mS/)
 
 <h1 style="color: #044875;"> 第5章 描述性统计量的计算 </h1>
 
@@ -44,9 +44,8 @@ title: "第2篇 描述统计分析"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap5_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.1讲评视频](https://www.bilibili.com/video/BV1qM4m1S7Rb/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.1讲评视频 描述性统计量的报告 6:39](https://www.bilibili.com/video/BV1qM4m1S7Rb/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.2讲评视频](https://www.bilibili.com/video/BV1Hr421g75i/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.2讲评视频 数据透视表中的计算功能 6:10](https://www.bilibili.com/video/BV1Hr421g75i/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.3讲评视频]<to be updated>
-
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题5.3讲评视频 如何快速报告分组数据的描述性统计量？9:55](https://www.bilibili.com/video/BV13U411S7Um/)

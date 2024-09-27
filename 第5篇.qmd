@@ -8,14 +8,14 @@ title: "第5篇 时间序列"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap16_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.1讲评视频](https://www.bilibili.com/video/BV1hS411P7Cz/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.1讲评视频 平稳序列的预测：移动平均法和指数平滑法 13:35](https://www.bilibili.com/video/BV1hS411P7Cz/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.2讲评视频](https://www.bilibili.com/video/BV1Fb421v7Sw/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.2讲评视频 北上广深常住人口增长模型 09:32](https://www.bilibili.com/video/BV1Fb421v7Sw/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.3讲评视频](https://www.bilibili.com/video/BV1tf421D7pP/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.3讲评视频 恩格尔系数变化趋势分析 散点图添加趋势线和回归方程 04:20](https://www.bilibili.com/video/BV1tf421D7pP/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.4讲评视频](https://www.bilibili.com/video/BV1v1421C729/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.4讲评视频 时间序列因素分解乘法模型  17:20](https://www.bilibili.com/video/BV1v1421C729/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.5讲评视频](https://www.bilibili.com/video/BV1LT421e7oS/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.5讲评视频 时间序列三段式平滑法 Holt-Winters方法 09:49](https://www.bilibili.com/video/BV1LT421e7oS/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.6讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题16.6讲评视频 时间序列因素分解法｜三段式指数平滑法 17:36](https://www.bilibili.com/video/BV1ST42167Bh/)

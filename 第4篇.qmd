@@ -8,13 +8,13 @@ title: "第4篇 推断统计分析方法"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap9_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.1讲评视频](https://www.bilibili.com/video/BV1jE42157Rc/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.1讲评视频 如何理解置信水平？ 12:36](https://www.bilibili.com/video/BV1jE42157Rc/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.2讲评视频](https://www.bilibili.com/video/BV1Kp421D7oK/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.2讲评视频 如何理解置信水平？——以总体方差的区间估计为例 09:24](https://www.bilibili.com/video/BV1Kp421D7oK/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.3讲评视频](https://www.bilibili.com/video/BV15x4y1z74i/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.3讲评视频 区间估计的计算 17:13](https://www.bilibili.com/video/BV15x4y1z74i/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.4讲评视频](https://www.bilibili.com/video/BV1ys421u75r/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题9.4讲评视频 总体均值/方差/比例的置信区间的计算 14:33 ](https://www.bilibili.com/video/BV1ys421u75r/)
 
 <h1 style="color: #044875;"> 第10章 假设检验 </h1>
 
@@ -22,13 +22,10 @@ title: "第4篇 推断统计分析方法"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap10_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.1讲评视频](https://www.bilibili.com/video/BV1zm41117ka/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.1讲评视频 单个总体均值/方差/ 比例的检验 25:21](https://www.bilibili.com/video/BV1zm41117ka/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.2讲评视频](https://www.bilibili.com/video/BV1ds421P7yM/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.2讲评视频 该用左侧检验还是右侧检验？20:33](https://www.bilibili.com/video/BV1ds421P7yM/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.3讲评视频]()
-
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题10.4讲评视频]<to be updated>
 
 <h1 style="color: #044875;"> 第11章 两个总体参数的检验 </h1>
 
@@ -36,11 +33,11 @@ title: "第4篇 推断统计分析方法"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap11_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.1讲评视频](https://www.bilibili.com/video/BV1kJ4m1P78S/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.1讲评视频 两个总体均值/方差/比例的检验？  23:34](https://www.bilibili.com/video/BV1kJ4m1P78S/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.2讲评视频](https://www.bilibili.com/video/BV13w4m1i7GV/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.2讲评视频 两个总体均值/方差/比例的检验在Excel中的实现 15:18](https://www.bilibili.com/video/BV13w4m1i7GV/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.3讲评视频](https://www.bilibili.com/video/BV1Pm421u7Us/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题11.3讲评视频 配对样本的t检验——促销活动效果分析 19:43](https://www.bilibili.com/video/BV1Pm421u7Us/)
 
 <h1 style="color: #044875;"> 第12章 多个总体参数的检验 </h1>
 
@@ -48,13 +45,13 @@ title: "第4篇 推断统计分析方法"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap12_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.1讲评视频](https://www.bilibili.com/video/BV1cT421Q71o/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.1讲评视频 单因素方差分析 10:13](https://www.bilibili.com/video/BV1cT421Q71o/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.2讲评视频](https://www.bilibili.com/video/BV1cw4m1e7sw/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.2讲评视频 单因素方差分析在Excel中的实现 05:02](https://www.bilibili.com/video/BV1cw4m1e7sw/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.3讲评视频](https://www.bilibili.com/video/BV1R1421q7U5/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.3讲评视频 双因素方差分析 05:30](https://www.bilibili.com/video/BV1R1421q7U5/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.4讲评视频](https://www.bilibili.com/video/BV1jr421j7xB/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题12.4讲评视频 如何在Excel中实现Levene检验——比较多个总体的方差是否相等？ 07:18](https://www.bilibili.com/video/BV1jr421j7xB/)
 
 <h1 style="color: #044875;">第13章 非参数检验 </h1>
 
@@ -62,14 +59,14 @@ title: "第4篇 推断统计分析方法"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap13_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.1讲评视频](https://www.bilibili.com/video/BV1gs421A7Ek/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.1讲评视频 非参数检验｜拟合优度检验｜中位数符号检验｜正态分布检验 14:42](https://www.bilibili.com/video/BV1gs421A7Ek/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.2第(1)(2)小题讲评视频](https://www.bilibili.com/video/BV1jw4m1D7LG/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.2第(1)(2)小题讲评视频 如何检验两个总体的分布是否一致？｜Mann-Whitney U 检验｜Wilcoxon秩和检验 13:59](https://www.bilibili.com/video/BV1jw4m1D7LG/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.2第(3)(4)小题讲评视频](https://www.bilibili.com/video/BV1an4y1o7Gk/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.2第(3)(4)小题讲评视频 如何检验多个总体的分布是否一致？｜Kruskal-Wallis 检验｜非参数检验 12:59](https://www.bilibili.com/video/BV1an4y1o7Gk/)
 
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.3讲评视频](https://www.bilibili.com/video/BV1e7421Z7gc/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题13.3讲评视频 如何检验两个配对总体的分布是否一致？｜Wilcoxon符号秩检验 07:49](https://www.bilibili.com/video/BV1e7421Z7gc/)
 
 
 
@@ -79,19 +76,19 @@ title: "第4篇 推断统计分析方法"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap14_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.1讲评视频](https://www.bilibili.com/video/BV1hZ421W7XR/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.1讲评视频 独立性检验  15:10](https://www.bilibili.com/video/BV1hZ421W7XR/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.2讲评视频](https://www.bilibili.com/video/BV1nM4m1m7Pg/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.2讲评视频 如何测度两个名义变量的相关关系？Cramer's V系数 10:26](https://www.bilibili.com/video/BV1nM4m1m7Pg/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.3讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.3讲评视频 如何计算Cramer's V 系数？ 09:03](https://www.bilibili.com/video/BV1nr421K7XF/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.4讲评视频](https://www.bilibili.com/video/BV1jx4y1n72U/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.4讲评视频 如何检验不同个体的主观排序是否一致？｜Kendall's W系数 07:55](https://www.bilibili.com/video/BV1jx4y1n72U/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.5讲评视频](https://www.bilibili.com/video/BV1pU411o7nZ/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.5讲评视频 皮尔逊相关系数的计算和显著性检验  09:30](https://www.bilibili.com/video/BV1pU411o7nZ/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.6讲评视频]<to be updated>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.6讲评视频 如何测度定量变量的相关关系？ 08:53](https://www.bilibili.com/video/BV1ss421M7Kq/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.7讲评视频](https://www.bilibili.com/video/BV1Ux4y1E7h5/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题14.7讲评视频 斯皮尔曼秩相关系数的计算和显著性检验 08:40](https://www.bilibili.com/video/BV1Ux4y1E7h5/)
 
 <h1 style="color: #044875;"> 第15章 回归分析 </h1>
 
@@ -99,6 +96,6 @@ title: "第4篇 推断统计分析方法"
 
 <img src="img/download.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[下载讲义PPT](https://github.com/lizongzhang/excelstat/blob/main/docs/chap15_slide.pptx?raw=true)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题15.1讲评视频](https://www.bilibili.com/video/BV1qy411B7EU/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题15.1讲评视频 Excel中如何实现回归分析 12:11](https://www.bilibili.com/video/BV1qy411B7EU/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题15.2讲评视频](https://www.bilibili.com/video/BV1Mm421L7y1/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[习题15.2讲评视频 如何利用Excel的linest函数实现多元回归的计算？ 10:25](https://www.bilibili.com/video/BV1Mm421L7y1/)
