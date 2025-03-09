@@ -6,7 +6,7 @@ about:
   links:
     - text: 例题习题数据下载
       icon: download
-      href: https://pan.baidu.com/s/1a9Ok7aj_3FcEvAlyQjPn9w?pwd=6789
+      href: https://pan.baidu.com/s/1CmE7k1xGY0BlySYJ_DLsUw?pwd=6789
     - text: 习题讲评视频合集
       icon: collection-play
       href: https://space.bilibili.com/590872906/channel/collectiondetail?sid=2767222
